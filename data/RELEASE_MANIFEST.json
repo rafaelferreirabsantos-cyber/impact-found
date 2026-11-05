@@ -1,0 +1,79 @@
+{
+  "schema": "impact-found/research-release/1",
+  "repository": "rafaelferreirabsantos-cyber/impact-found",
+  "tag": "pesquisa-2026-11-05",
+  "cutoff_exclusive": "2026-11-05",
+  "status": "Validação quantitativa condicional; universo retrospectivo.",
+  "assets": [
+    {
+      "name": "impact-found-pesquisa-2026-11-05.zip",
+      "bytes": 35469470,
+      "sha256": "1af306ff12fcfce56854c67f9e01161892bc4313396def28b9ebce5877845ca1",
+      "url": "https://github.com/rafaelferreirabsantos-cyber/impact-found/releases/download/pesquisa-2026-11-05/impact-found-pesquisa-2026-11-05.zip",
+      "destination": "project-archive"
+    },
+    {
+      "name": "COTAHIST_A2018.ZIP",
+      "bytes": 19488404,
+      "sha256": "9d66136179d9822476c6035000167aecf2665f4396619e4d74c0011745a0c507",
+      "url": "https://github.com/rafaelferreirabsantos-cyber/impact-found/releases/download/pesquisa-2026-11-05/COTAHIST_A2018.ZIP",
+      "destination": "work/b3_raw/COTAHIST_A2018.ZIP"
+    },
+    {
+      "name": "COTAHIST_A2019.ZIP",
+      "bytes": 26650371,
+      "sha256": "5170d3f8f079c3306424b36c2fae9b467391f8fa37d16d389f487b4c5c28edb9",
+      "url": "https://github.com/rafaelferreirabsantos-cyber/impact-found/releases/download/pesquisa-2026-11-05/COTAHIST_A2019.ZIP",
+      "destination": "work/b3_raw/COTAHIST_A2019.ZIP"
+    },
+    {
+      "name": "COTAHIST_A2020.ZIP",
+      "bytes": 37181542,
+      "sha256": "86442168939b9da7b3cc1ec1662c333ee5ab4c75f2be1865b5bf55ba4c52168f",
+      "url": "https://github.com/rafaelferreirabsantos-cyber/impact-found/releases/download/pesquisa-2026-11-05/COTAHIST_A2020.ZIP",
+      "destination": "work/b3_raw/COTAHIST_A2020.ZIP"
+    },
+    {
+      "name": "COTAHIST_A2021.ZIP",
+      "bytes": 49678679,
+      "sha256": "b0d4aed17d609c7ba615a23320c2fd513b580a251ae7d884a5015ef8a3fe4705",
+      "url": "https://github.com/rafaelferreirabsantos-cyber/impact-found/releases/download/pesquisa-2026-11-05/COTAHIST_A2021.ZIP",
+      "destination": "work/b3_raw/COTAHIST_A2021.ZIP"
+    },
+    {
+      "name": "COTAHIST_A2022.ZIP",
+      "bytes": 58597842,
+      "sha256": "a4f9015b755f797d9c08b0d13f19dbfab18a6c75f379c0271a1cf1b5f6323cd8",
+      "url": "https://github.com/rafaelferreirabsantos-cyber/impact-found/releases/download/pesquisa-2026-11-05/COTAHIST_A2022.ZIP",
+      "destination": "work/b3_raw/COTAHIST_A2022.ZIP"
+    },
+    {
+      "name": "COTAHIST_A2023.ZIP",
+      "bytes": 70216090,
+      "sha256": "ad1603788d78aaa1de806498572277f1d9443f88ae116452751b5800cb23523e",
+      "url": "https://github.com/rafaelferreirabsantos-cyber/impact-found/releases/download/pesquisa-2026-11-05/COTAHIST_A2023.ZIP",
+      "destination": "work/b3_raw/COTAHIST_A2023.ZIP"
+    },
+    {
+      "name": "COTAHIST_A2024.ZIP",
+      "bytes": 79261198,
+      "sha256": "96a003d10fab0fa2ace0c64cdc2b892b4c111adf9da8e538aa0b28437bd2a172",
+      "url": "https://github.com/rafaelferreirabsantos-cyber/impact-found/releases/download/pesquisa-2026-11-05/COTAHIST_A2024.ZIP",
+      "destination": "work/b3_raw/COTAHIST_A2024.ZIP"
+    },
+    {
+      "name": "COTAHIST_A2025.ZIP",
+      "bytes": 89056788,
+      "sha256": "6cc0ad851c8f605ca30418acac48be81f1767f6ed05b4f563772d06ae448047d",
+      "url": "https://github.com/rafaelferreirabsantos-cyber/impact-found/releases/download/pesquisa-2026-11-05/COTAHIST_A2025.ZIP",
+      "destination": "work/b3_raw/COTAHIST_A2025.ZIP"
+    },
+    {
+      "name": "COTAHIST_A2026.ZIP",
+      "bytes": 98992554,
+      "sha256": "3b1bd313970a79d21bf3fdd9a02200c648ab7d327661aff8d1c0b489f45394bd",
+      "url": "https://github.com/rafaelferreirabsantos-cyber/impact-found/releases/download/pesquisa-2026-11-05/COTAHIST_A2026.ZIP",
+      "destination": "work/b3_raw/COTAHIST_A2026.ZIP"
+    }
+  ]
+}

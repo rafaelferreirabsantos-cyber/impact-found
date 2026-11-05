@@ -1,0 +1,12 @@
+{
+  "python": "3.13.14",
+  "direct_dependencies": {
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "yfinance": "1.4.0",
+    "requests": "2.34.2",
+    "matplotlib": "3.10.9",
+    "markdown-it-py": "4.2.0"
+  },
+  "pypdf": "6.21.4 (leitura de documentos; instalado isoladamente na etapa de auditoria)"
+}

@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "four_strategies_same_dates": true,
+  "corporate_event_returns_reconciled": true,
+  "official_benchmarks_complete": true,
+  "cdi_initial_inclusive_final_exclusive": true,
+  "variable_cost_ledger_checked": true,
+  "fee_state_causal_and_zero_fee_identity": true,
+  "original_stage1_files_unchanged": [
+    "cache_precos_yahoo.csv",
+    "cache_precos_auditados.csv",
+    "cache_cdi_sgs12.csv",
+    "cache_ibov_yahoo.csv",
+    "backtest_results.json",
+    "patrimonio_diario.csv",
+    "carteiras_por_rebalanceamento.csv",
+    "ordens_e_custos.csv",
+    "metricas.json"
+  ],
+  "checks": [
+    {
+      "strategy": "multifactor",
+      "selected_rows_checked": 1880,
+      "orders_checked": 2161,
+      "max_independent_nav_error_brl": 0.003642737865447998
+    },
+    {
+      "strategy": "momentum",
+      "selected_rows_checked": 1880,
+      "orders_checked": 2159,
+      "max_independent_nav_error_brl": 0.002541154623031616
+    },
+    {
+      "strategy": "low_volatility",
+      "selected_rows_checked": 1880,
+      "orders_checked": 2147,
+      "max_independent_nav_error_brl": 0.0023200809955596924
+    },
+    {
+      "strategy": "eligible_equal",
+      "selected_rows_checked": 4127,
+      "orders_checked": 4159,
+      "max_independent_nav_error_brl": 0.020593613386154175
+    }
+  ],
+  "scope": "Consistência computacional dos dados disponíveis; não elimina viés de sobrevivência nem constitui auditoria integral de custódia/proventos."
+}

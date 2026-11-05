@@ -1,0 +1,13 @@
+{
+  "orders": 2161,
+  "max_participation_adv": 0.5127296316927638,
+  "p95_participation_adv": 0.10490233544138725,
+  "max_participation_actual_day": 0.7598998961008284,
+  "orders_over_5pct_adv": 285,
+  "orders_over_10pct_adv": 123,
+  "orders_over_20pct_adv": 22,
+  "max_days_at_10pct_adv": 6.0,
+  "min_instantaneous_nav_capacity_at_10pct_brl": 38501049.94775713,
+  "approx_initial_nav_capacity_at_10pct_brl": 19503456.367413867,
+  "note": "Capacidade indicativa baseada em ADV e ordens da trajetória de R$ 100 milhões iniciais; não garante liquidez nem preenchimento. Não se diluiu artificialmente a ordem em sessões posteriores."
+}

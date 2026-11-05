@@ -1,0 +1,121 @@
+{
+  "status": "CONDICIONAL — cálculo auditado, base não integralmente validada",
+  "score_and_causality_original": {
+    "status": "PASS",
+    "formula": "0,75 × (rank médio Momentum − 1)/(N − 1) + 0,25 × (rank médio inverso volatilidade − 1)/(N − 1)",
+    "max_score_error": 0.0,
+    "months_compared_to_truncated_history": 94,
+    "ranked_rows": 4127,
+    "future_data_algorithm": "Nenhuma diferença após remover todo o histórico posterior ao sinal",
+    "point_in_time_warning": "Testar causalidade do algoritmo não elimina composição retrospectiva, setores atuais, revisões posteriores ou ajustes da fonte."
+  },
+  "corporate_events": [
+    {
+      "ticker": "BRAP4",
+      "previous": "2021-12-16",
+      "date": "2021-12-17",
+      "description": "Restituição de capital: 0,332373453 VALE3 por BRAP4 + R$ 6,043850916 de dividendo",
+      "original_return": 0.006084320456440695,
+      "independent_return": -0.005058135711545453,
+      "status": "CORRIGIDO: marcação econômica de ação e direitos a receber; sem simulação de custódia e pagamento",
+      "source_documents": [
+        "BRADESPAR_2021-11-11_915967.pdf",
+        "BRADESPAR_2021-11-08_914312.pdf",
+        "BRADESPAR_2021-12-17_926814.pdf"
+      ],
+      "prefix_scale_factor": 1.0111991027495408,
+      "difference_bps": 111.42456167986148
+    },
+    {
+      "ticker": "MGLU3",
+      "previous": "2024-01-31",
+      "date": "2024-02-01",
+      "description": "Direito 9,5790177529%; subscrição a R$ 1,95; MGLU1 a R$ 0,20 no fechamento B3",
+      "original_return": 0.04878420356770197,
+      "independent_return": -0.009924744997238055,
+      "terp_reference_return": -0.012884029390360374,
+      "status": "CORRIGIDO: ação + direito marcado a mercado; não pressupõe exercício ou venda assegurada",
+      "source_documents": [
+        "MAGAZINE_2024-01-26_1186895.pdf"
+      ],
+      "prefix_scale_factor": 1.059297460741786,
+      "difference_bps": 587.0894856494002
+    },
+    {
+      "ticker": "BRAP4",
+      "previous": "2021-09-20",
+      "date": "2021-09-21",
+      "description": "Conversão mecânica de quantidades × 1.1295",
+      "original_return": 0.00665900234291672,
+      "independent_return": 0.006658898305084593,
+      "status": "RECONCILIADO",
+      "source_documents": [
+        "BRADESPAR_2021-09-21_902373.pdf"
+      ]
+    },
+    {
+      "ticker": "MGLU3",
+      "previous": "2024-05-24",
+      "date": "2024-05-27",
+      "description": "Conversão mecânica de quantidades × 0.1",
+      "original_return": -0.0037878471174360717,
+      "independent_return": -0.0037878787878786735,
+      "status": "RECONCILIADO",
+      "source_documents": [
+        "MAGAZINE_2024-04-24_1225389.pdf"
+      ]
+    },
+    {
+      "ticker": "MGLU3",
+      "previous": "2025-12-29",
+      "date": "2025-12-30",
+      "description": "Conversão mecânica de quantidades × 1.05",
+      "original_return": 0.003957264655127357,
+      "independent_return": 0.003957219251337074,
+      "status": "RECONCILIADO",
+      "source_documents": [
+        "MAGAZINE_2025-12-22_1460683.pdf"
+      ]
+    }
+  ],
+  "cdi": {
+    "first_stage_return": 1.036102959306811,
+    "corrected_return": 1.0355704223492892,
+    "correct_convention": "[fechamento anterior, fechamento atual), início inclusivo/fim exclusivo; Taxa DI de um dia útil",
+    "reference": "https://www.b3.com.br/lumis/portal/file/fileDownload.jsp?fileId=8AE490CA7861D39C0178B17E20392164"
+  },
+  "survivorship": {
+    "status": "NÃO RESOLVIDO",
+    "configured": 51,
+    "available_adjusted": 47,
+    "missing": [
+      "CPLE6",
+      "BRFS3",
+      "JBSS3",
+      "MRFG3"
+    ],
+    "finding": "Os quatro códigos têm preços oficiais B3 no período; falha do fornecedor não é ausência histórica. Preços brutos recuperados não substituem proventos completos e política de conversão. Comparações ficam condicionadas aos mesmos 47 códigos disponíveis.",
+    "pit_membership": "Template de composição histórica vazio; não foi inventado universo PIT."
+  },
+  "benchmark_ibov": {
+    "observations_compared": 2197,
+    "differences_over_10bps": 93,
+    "max_abs_relative_difference": 0.00816433477552958,
+    "stage2_source": "Fechamentos oficiais B3, sem preencher lacunas"
+  },
+  "dividends": {
+    "status": "PARCIAL",
+    "accounting": "Retorno ajustado incorpora proventos uma única vez. Não há crédito adicional no caixa. Eventos revisados foram encadeados por riqueza econômica observada.",
+    "remaining": "Não é livro de custódia. Datas de pagamento, reinvestimento implícito, direitos recebidos, impostos e todas as demais operações ainda não estão integralmente reconstruídos."
+  },
+  "execution": {
+    "status": "PASS NO MODELO",
+    "signal": "Último pregão do mês, após fechamento",
+    "execution": "Fechamento da sessão seguinte, com retorno da nova posição somente no intervalo posterior",
+    "costs": "0,20% por nocional em compras e vendas; custo de liquidação final ausente porque não se vende a carteira no fim",
+    "limitations": "Negociação ao fechamento é proxy; liquidação financeira D+2 e livro de ordens não simulados."
+  },
+  "remaining_price_divergences": "21 observações fora dos dois grandes grupos BRAP4/MGLU3 continuam registradas; diferenças menores que 3% e proventos de todos os emissores não foram integralmente conciliados. Não suavizar nem substituir automaticamente.",
+  "reference_candidate": "precos_etapa2.csv; alterações de dados e alinhamento CDI não são otimização de parâmetros",
+  "original_artifacts": "Preservados em output/ e work/etapa2/etapa1_antes_da_auditoria.zip"
+}

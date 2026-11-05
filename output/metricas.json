@@ -1,0 +1,156 @@
+{
+  "metrics": {
+    "start": "2019-01-31",
+    "end": "2026-11-04",
+    "observations": 1931,
+    "initial_nav_brl": 100000000.0,
+    "final_nav_brl": 257249164.2758159,
+    "return_total": 1.572491642758159,
+    "cdi_return_total": 1.0361029593068105,
+    "excess_over_cdi_pp": 53.63886834513485,
+    "ibov_return_total": 0.720475593979095,
+    "return_annualized": 0.1312332186846672,
+    "vol_annualized": 0.22909708160274403,
+    "sharpe_over_cdi": 0.24967124915327757,
+    "max_drawdown": -0.43782644629488887,
+    "var_95_one_day": 0.019487582390026237,
+    "es_95_one_day": 0.03390029406778144,
+    "total_cost_brl": 12492470.358704492,
+    "one_way_turnover_sum": 16.757682283847096,
+    "rebalance_count": 94,
+    "avg_holdings": 20.0
+  },
+  "quality": {
+    "source_price_type": "Adjusted Close (Yahoo Finance ou CSV fornecido)",
+    "universe_mode": "FIXO-RETROSPECTIVO (viés de sobrevivência)",
+    "snapshot_dates": 0,
+    "missing_cdi_sessions": 0,
+    "price_fill_method": "Nenhum; lacunas não são interpoladas nem carregadas",
+    "cdi_alignment": "Produto de todas as taxas SGS 12 em (fechamento anterior, fechamento atual], incluindo dias bancários sem pregão B3",
+    "extra_cdi_dates_between_sessions": 17,
+    "configured_assets": 51,
+    "downloaded_assets": 47,
+    "missing_assets": [
+      "BRFS3",
+      "CPLE6",
+      "JBSS3",
+      "MRFG3"
+    ],
+    "selected_unique_assets": 47,
+    "market_start": "2018-01-02",
+    "market_end": "2026-11-04",
+    "first_execution_date": "2019-02-01",
+    "signal_months_skipped": 12,
+    "example_skipped": [
+      "2018-01-31",
+      "2018-02-28",
+      "2018-03-29",
+      "2018-04-30",
+      "2018-05-30",
+      "2018-06-29",
+      "2018-07-31",
+      "2018-08-31",
+      "2018-09-28",
+      "2018-10-31",
+      "2018-11-30",
+      "2018-12-28"
+    ],
+    "no_realtime_quotes": true,
+    "capacity_filter_adv_brl": 33333334.0,
+    "execution": "Sinal no fechamento do mês, execução no fechamento da sessão seguinte",
+    "costs": "Custos lineares por nocional transacionado; sem taxas de gestão/performance/tributos",
+    "known_limitations": [
+      "Universo fixo de ações atuais induz viés de sobrevivência",
+      "Eventos de deslistagem exigem tratamento PIT e série total return íntegra",
+      "Execução ao fechamento é proxy; sem simulação microestrutural de book",
+      "Sem aportes, resgates, imposto ou taxa de administração/performance"
+    ],
+    "data_start_requested": "2018-01-01",
+    "data_end_exclusive": "2026-11-05",
+    "price_source": "Yahoo Finance (Adj Close) + correção UGPA3 conferida na B3 COTAHIST",
+    "cdi_source": "Banco Central SGS 12",
+    "benchmark": "IBOV (Yahoo Finance)",
+    "run_data_quality_note": "Conferência de preços contra B3 e eventos Yahoo; não constitui auditoria independente integral de proventos ou base point-in-time.",
+    "source_audit": {
+      "b3_files": [
+        {
+          "url": "https://bvmf.bmfbovespa.com.br/InstDados/SerHist/COTAHIST_A2018.ZIP",
+          "sha256": "9d66136179d9822476c6035000167aecf2665f4396619e4d74c0011745a0c507"
+        },
+        {
+          "url": "https://bvmf.bmfbovespa.com.br/InstDados/SerHist/COTAHIST_A2019.ZIP",
+          "sha256": "5170d3f8f079c3306424b36c2fae9b467391f8fa37d16d389f487b4c5c28edb9"
+        },
+        {
+          "url": "https://bvmf.bmfbovespa.com.br/InstDados/SerHist/COTAHIST_A2020.ZIP",
+          "sha256": "86442168939b9da7b3cc1ec1662c333ee5ab4c75f2be1865b5bf55ba4c52168f"
+        },
+        {
+          "url": "https://bvmf.bmfbovespa.com.br/InstDados/SerHist/COTAHIST_A2021.ZIP",
+          "sha256": "b0d4aed17d609c7ba615a23320c2fd513b580a251ae7d884a5015ef8a3fe4705"
+        },
+        {
+          "url": "https://bvmf.bmfbovespa.com.br/InstDados/SerHist/COTAHIST_A2022.ZIP",
+          "sha256": "a4f9015b755f797d9c08b0d13f19dbfab18a6c75f379c0271a1cf1b5f6323cd8"
+        },
+        {
+          "url": "https://bvmf.bmfbovespa.com.br/InstDados/SerHist/COTAHIST_A2023.ZIP",
+          "sha256": "ad1603788d78aaa1de806498572277f1d9443f88ae116452751b5800cb23523e"
+        },
+        {
+          "url": "https://bvmf.bmfbovespa.com.br/InstDados/SerHist/COTAHIST_A2024.ZIP",
+          "sha256": "96a003d10fab0fa2ace0c64cdc2b892b4c111adf9da8e538aa0b28437bd2a172"
+        },
+        {
+          "url": "https://bvmf.bmfbovespa.com.br/InstDados/SerHist/COTAHIST_A2025.ZIP",
+          "sha256": "6cc0ad851c8f605ca30418acac48be81f1767f6ed05b4f563772d06ae448047d"
+        },
+        {
+          "url": "https://bvmf.bmfbovespa.com.br/InstDados/SerHist/COTAHIST_A2026.ZIP",
+          "sha256": "3b1bd313970a79d21bf3fdd9a02200c648ab7d327661aff8d1c0b489f45394bd"
+        }
+      ],
+      "b3_matched_rows": 97344,
+      "discarded_non_session_dates": [
+        "2018-01-25"
+      ],
+      "discarded_non_session_rows": 43,
+      "market_rows": 100929,
+      "turnover_proxy_rows": 3585,
+      "corrected_ugpa3_rows": 860,
+      "other_divergent_rows": 2507,
+      "other_divergent_tickers": [
+        "BBAS3",
+        "BEEF3",
+        "BPAC11",
+        "BRAP4",
+        "CMIG4",
+        "EQTL3",
+        "KLBN11",
+        "MGLU3",
+        "PETR4",
+        "PRIO3",
+        "USIM5"
+      ],
+      "comparison_note": "Diferença entre Close Yahoo e fechamento B3 ajustado apenas por splits não prova erro: direitos de subscrição, cisões e reduções de capital podem alterar a base Yahoo. BRAP4/MGLU3 foram preservados; não há reconciliação independente integral desses eventos.",
+      "method": "UGPA3: base de splits oficial B3 multiplicada pelo fator de dividendos Yahoo AdjClose/Close; demais preços Yahoo preservados. ADV: volume financeiro B3 quando disponível; close × volume Yahoo nos demais registros.",
+      "corporate_actions_note": "Ajustes Yahoo são retrospectivos e não são base point-in-time; eventos não foram todos auditados junto a cada emissor."
+    },
+    "liquidity_source": "Volume financeiro B3; close × volume Yahoo nas datas sem correspondência de ticker"
+  },
+  "parameters": {
+    "initial_nav": 100000000.0,
+    "n_assets": 20,
+    "momentum_weight": 0.75,
+    "sector_cap": 0.3,
+    "issuer_cap": 0.05,
+    "momentum_long": 252,
+    "momentum_skip": 21,
+    "vol_window": 63,
+    "adv_window": 21,
+    "min_adv_brl": 33333334.0,
+    "execution_cost_bps": 20.0,
+    "max_snapshot_age_days": 145,
+    "min_holdings": 8
+  }
+}

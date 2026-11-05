@@ -1,0 +1,29 @@
+{
+  "status": "PREPARADO, NÃO EXECUTADO",
+  "prospective_observations": 0,
+  "registered_protocol_sha256": "16663050dae5a4dbd1bcf31a5460aea988333ec3627f1c2d80f29caa5a65626b",
+  "base_available_through": "2026-11-04",
+  "base_2026_11_05": "PENDENTE: coletar e arquivar fechamento antes de medir o primeiro retorno prospectivo de 06/11/2026",
+  "holdings_note": "Carteira herdada reconstruída ex post da formação de outubro/2026; não é evidência de decisão arquivada antes de sua execução.",
+  "first_new_formation": "Último pregão B3 de novembro/2026; execução na sessão seguinte",
+  "target_end": "2027-11-05",
+  "parameters": {
+    "momentum_weight": 0.75,
+    "momentum_long": 252,
+    "momentum_skip": 21,
+    "vol_window": 63,
+    "n_assets": 20,
+    "sector_cap": 0.3,
+    "issuer_cap": 0.05,
+    "min_adv_brl": 33333334,
+    "execution_cost_bps": 20
+  },
+  "gates": [
+    "Resolver cobertura corporativa e política de mudanças de ticker antes de interpretar o resultado como validação integral.",
+    "Para cada decisão: arquivar dados disponíveis, instante de corte, universo conhecido, ranking, pesos, sinais e hashes antes de executar.",
+    "Sem mudança de mandato baseada em resultados, sem reescrever arquivos de decisão anteriores.",
+    "Parar o cálculo quando faltar dado de posição; registrar incidentes e versões, sem imputar preços."
+  ],
+  "engine_sha256": "d174cd02a89f21bde3e99feab6cbe96d4585bda718137ebcc2c6c39c12e1e411",
+  "research_code_sha256": "a48ddffab75952bcde866b72dc7d2c92c5d12e6c48f10ab7662799dfe8d1bf9d"
+}

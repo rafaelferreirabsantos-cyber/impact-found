@@ -1,0 +1,6 @@
+ticker,previous,date,description,original_return,independent_return,status,source_documents,prefix_scale_factor,difference_bps,terp_reference_return
+BRAP4,2021-12-16,2021-12-17,"Restituição de capital: 0,332373453 VALE3 por BRAP4 + R$ 6,043850916 de dividendo",0.006084320456440695,-0.005058135711545453,CORRIGIDO: marcação econômica de ação e direitos a receber; sem simulação de custódia e pagamento,"['BRADESPAR_2021-11-11_915967.pdf', 'BRADESPAR_2021-11-08_914312.pdf', 'BRADESPAR_2021-12-17_926814.pdf']",1.0111991027495408,111.42456167986148,
+MGLU3,2024-01-31,2024-02-01,"Direito 9,5790177529%; subscrição a R$ 1,95; MGLU1 a R$ 0,20 no fechamento B3",0.04878420356770197,-0.009924744997238055,CORRIGIDO: ação + direito marcado a mercado; não pressupõe exercício ou venda assegurada,['MAGAZINE_2024-01-26_1186895.pdf'],1.059297460741786,587.0894856494002,-0.012884029390360374
+BRAP4,2021-09-20,2021-09-21,Conversão mecânica de quantidades × 1.1295,0.00665900234291672,0.006658898305084593,RECONCILIADO,['BRADESPAR_2021-09-21_902373.pdf'],,,
+MGLU3,2024-05-24,2024-05-27,Conversão mecânica de quantidades × 0.1,-0.0037878471174360717,-0.0037878787878786735,RECONCILIADO,['MAGAZINE_2024-04-24_1225389.pdf'],,,
+MGLU3,2025-12-29,2025-12-30,Conversão mecânica de quantidades × 1.05,0.003957264655127357,0.003957219251337074,RECONCILIADO,['MAGAZINE_2025-12-22_1460683.pdf'],,,

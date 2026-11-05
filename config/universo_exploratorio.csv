@@ -1,0 +1,52 @@
+ticker,issuer,sector
+PETR4,Petrobras,Petróleo e gás
+PETR3,Petrobras,Petróleo e gás
+VALE3,Vale,Materiais básicos
+ITUB4,Itaú Unibanco,Financeiro
+BBDC4,Bradesco,Financeiro
+BBDC3,Bradesco,Financeiro
+BBAS3,Banco do Brasil,Financeiro
+ABEV3,Ambev,Consumo
+WEGE3,WEG,Indústria
+B3SA3,B3,Financeiro
+ITSA4,Itaúsa,Financeiro
+BBSE3,BB Seguridade,Financeiro
+VIVT3,Telefônica Brasil,Telecom
+TIMS3,TIM Brasil,Telecom
+RADL3,Raia Drogasil,Saúde
+SBSP3,Sabesp,Utilidades
+EQTL3,Equatorial,Utilidades
+CMIG4,Cemig,Utilidades
+CPLE6,Copel,Utilidades
+CPLE3,Copel,Utilidades
+EGIE3,Engie Brasil,Utilidades
+ENEV3,Eneva,Utilidades
+PRIO3,PRIO,Petróleo e gás
+UGPA3,Ultrapar,Petróleo e gás
+VBBR3,Vibra Energia,Petróleo e gás
+GGBR4,Gerdau,Materiais básicos
+CSNA3,CSN,Materiais básicos
+EMBJ3,Embraer,Indústria
+RENT3,Localiza,Serviços
+LREN3,Lojas Renner,Consumo
+MGLU3,Magazine Luiza,Consumo
+HYPE3,Hypera,Saúde
+SUZB3,Suzano,Materiais básicos
+KLBN11,Klabin,Materiais básicos
+BRFS3,BRF,Consumo
+JBSS3,JBS,Consumo
+MRFG3,Marfrig,Consumo
+TOTS3,Totvs,Tecnologia
+CYRE3,Cyrela,Imobiliário
+MULT3,Multiplan,Imobiliário
+RDOR3,Rede DOr,Saúde
+FLRY3,Fleury,Saúde
+PSSA3,Porto Seguro,Financeiro
+CPFE3,CPFL,Utilidades
+BRAP4,Bradespar,Materiais básicos
+USIM5,Usiminas,Materiais básicos
+CMIN3,CSN Mineração,Materiais básicos
+EZTC3,EZTEC,Imobiliário
+BEEF3,Minerva,Consumo
+ASAI3,Assaí,Consumo
+BPAC11,BTG Pactual,Financeiro

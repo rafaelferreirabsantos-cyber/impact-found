@@ -1,0 +1,110 @@
+[
+  {
+    "index": "IBXX",
+    "year": 2018,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQlhYIiwgInllYXIiOiAiMjAxOCJ9",
+    "sha256": "9f9a1c4f0e3abc96b846e34b25b70446bac3754b2307d99530efc71ed88809e4"
+  },
+  {
+    "index": "IBXX",
+    "year": 2019,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQlhYIiwgInllYXIiOiAiMjAxOSJ9",
+    "sha256": "d66bdf110f1dca2ee6791ab219fdc78d3671552c85fabc923e1d7aaefa51839b"
+  },
+  {
+    "index": "IBXX",
+    "year": 2020,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQlhYIiwgInllYXIiOiAiMjAyMCJ9",
+    "sha256": "37b5cbe1a2dbb621d3ac01c8c29ab7a13ac772dccef0e849f1a836be27bca3c3"
+  },
+  {
+    "index": "IBXX",
+    "year": 2021,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQlhYIiwgInllYXIiOiAiMjAyMSJ9",
+    "sha256": "35b115541dee2d2f9e2388facf952e1438f2775488b6053ba43a4777d64f9bfb"
+  },
+  {
+    "index": "IBXX",
+    "year": 2022,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQlhYIiwgInllYXIiOiAiMjAyMiJ9",
+    "sha256": "eaae171427f07ac19bbea5583eab857821d0655c6bcdb4dcc192d92f98b304f3"
+  },
+  {
+    "index": "IBXX",
+    "year": 2023,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQlhYIiwgInllYXIiOiAiMjAyMyJ9",
+    "sha256": "68b1bac443842ef66cc83e4fea4b19e0c6a50babd6a02ab0d589f96280b5ef3c"
+  },
+  {
+    "index": "IBXX",
+    "year": 2024,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQlhYIiwgInllYXIiOiAiMjAyNCJ9",
+    "sha256": "9a6d416f0cb22cc816787d52cfc5fe5d7732037d5b6434c2a9cd97cc78fda78c"
+  },
+  {
+    "index": "IBXX",
+    "year": 2025,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQlhYIiwgInllYXIiOiAiMjAyNSJ9",
+    "sha256": "eeafdfa75a9ff242d3861506879b6d48119acd6c347610580a2015481dced69a"
+  },
+  {
+    "index": "IBXX",
+    "year": 2026,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQlhYIiwgInllYXIiOiAiMjAyNiJ9",
+    "sha256": "a978aa23d287cb7c5772e8773b0e829d96ba4690598b399c82cbb7f579b0003e"
+  },
+  {
+    "index": "IBOVESPA",
+    "year": 2018,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQk9WRVNQQSIsICJ5ZWFyIjogIjIwMTgifQ==",
+    "sha256": "157a6d55d632e29b6086393d659a14b27668ca0ef10f5a5ad50753dd961fb384"
+  },
+  {
+    "index": "IBOVESPA",
+    "year": 2019,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQk9WRVNQQSIsICJ5ZWFyIjogIjIwMTkifQ==",
+    "sha256": "5fe2d90a9b62a001b5f6f8b6c5cda981ef38f13a618be05ced291e656d9790fd"
+  },
+  {
+    "index": "IBOVESPA",
+    "year": 2020,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQk9WRVNQQSIsICJ5ZWFyIjogIjIwMjAifQ==",
+    "sha256": "a26b306ab53cdf35ee1993dd73f090f02b9c97044391f6a43d48a9adc67cdc07"
+  },
+  {
+    "index": "IBOVESPA",
+    "year": 2021,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQk9WRVNQQSIsICJ5ZWFyIjogIjIwMjEifQ==",
+    "sha256": "4e5fec3ce7061fbb64f7042e7b78ebd13839e610540c56515556ca288015eddd"
+  },
+  {
+    "index": "IBOVESPA",
+    "year": 2022,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQk9WRVNQQSIsICJ5ZWFyIjogIjIwMjIifQ==",
+    "sha256": "1df55bd464f974caf39149986bfe83693a6969295bcdb1eca48ced86c7f35897"
+  },
+  {
+    "index": "IBOVESPA",
+    "year": 2023,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQk9WRVNQQSIsICJ5ZWFyIjogIjIwMjMifQ==",
+    "sha256": "a9a88efd866f0327413593aef4fdbe7541f560301e2701079cbeb06383c66810"
+  },
+  {
+    "index": "IBOVESPA",
+    "year": 2024,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQk9WRVNQQSIsICJ5ZWFyIjogIjIwMjQifQ==",
+    "sha256": "9d0de175cbfc6ea900671e5730a1278f769366cc5eea63c4ac89baccfa422d20"
+  },
+  {
+    "index": "IBOVESPA",
+    "year": 2025,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQk9WRVNQQSIsICJ5ZWFyIjogIjIwMjUifQ==",
+    "sha256": "9e2783ecd22e78c4f347097c78243ce7270ed1924f33bcfcc3c3377dccb3b79f"
+  },
+  {
+    "index": "IBOVESPA",
+    "year": 2026,
+    "url": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/eyJsYW5ndWFnZSI6ICJwdC1iciIsICJpbmRleCI6ICJJQk9WRVNQQSIsICJ5ZWFyIjogIjIwMjYifQ==",
+    "sha256": "7b732ec163deeeab014e0f9c809e307b00be3de6043e8e31390ef602a2af7c23"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "formula": "0,75 × (rank médio Momentum − 1)/(N − 1) + 0,25 × (rank médio inverso volatilidade − 1)/(N − 1)",
+  "max_score_error": 0.0,
+  "months_compared_to_truncated_history": 94,
+  "ranked_rows": 4127,
+  "future_data_algorithm": "Nenhuma diferença após remover todo o histórico posterior ao sinal",
+  "point_in_time_warning": "Testar causalidade do algoritmo não elimina composição retrospectiva, setores atuais, revisões posteriores ou ajustes da fonte."
+}

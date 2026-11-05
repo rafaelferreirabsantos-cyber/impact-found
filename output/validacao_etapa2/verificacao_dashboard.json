@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "date_local": "2026-11-05",
+  "comparison_rows": 7,
+  "sensitivity_rows": 17,
+  "controls_checked": [
+    "Referências",
+    "Drawdown",
+    "Regimes",
+    "Diagnóstico temporal retrospectivo",
+    "Ano 2024",
+    "Ano 2026",
+    "Estratégias",
+    "Patrimônio base 100",
+    "Abrir/recolher sensibilidade",
+    "Exportar JSON"
+  ],
+  "json_download_schema": "impact-validation/2.0",
+  "javascript_errors_observed": 0,
+  "report_figures_loaded": 4,
+  "original_css_blocks_preserved": 2,
+  "proof_sha256": "5af8198686f7be5576b1a51e5de2026823f211d0153f3c9b94d44893de8f4024",
+  "note": "Verificação do comportamento observado no navegador local; não certifica qualidade das fontes financeiras."
+}

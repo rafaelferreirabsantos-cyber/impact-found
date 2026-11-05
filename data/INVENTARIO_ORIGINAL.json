@@ -1,0 +1,2495 @@
+{
+  "generated_utc": "2026-11-05T14:33:40.905164+00:00",
+  "files": [
+    {
+      "path": "diagnosticar_rede.py",
+      "bytes": 2208,
+      "sha256": "39d110ba9be18fd6089cc9e72a6143092208a04c771b5b5f0f08157da79e288b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "diagnosticar_windows.bat",
+      "bytes": 230,
+      "sha256": "dc03315b3e8423b5e607463a04138665b80aa23a3d06748c7a35f5f0ccbaba3a",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "monitorar_windows.bat",
+      "bytes": 454,
+      "sha256": "f602b797447a08d5dddc87e212a3aa07dd11c1b4358a9413b89c5c74a14ada11",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "NOTAS_DA_VERSAO.md",
+      "bytes": 1440,
+      "sha256": "86df2785b6b2aca15ac3b3a8d7574a24cb986fa736944402682cb28f0bc799e0",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "NOVO_DASHBOARD_v3.md",
+      "bytes": 1931,
+      "sha256": "847d66367622ef22da777df229f75aa9237666c51baa87aa4ae4d7b6da2c913b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "README.md",
+      "bytes": 21029,
+      "sha256": "97d99f1c91b8159a4469ca44c7d7dc35bc3115ef4e5a196adf017ae15fa77e35",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "requirements-validation.txt",
+      "bytes": 72,
+      "sha256": "e81be7fdf3f287f1f4e46637fec55034f14275bb87fde0726169bea3977e088a",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 68,
+      "sha256": "50c9d657f6a9e85c5f9bfd0c4a2dcb8b4d1e5a59129b9066af6b826faaad5e42",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "rodar_linux_mac.sh",
+      "bytes": 156,
+      "sha256": "b816f30d8a8b0cc4d079335066b035e84c87c65cc42231f1a15004552fe5d507",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "rodar_windows.bat",
+      "bytes": 496,
+      "sha256": "175818cd36bb0a70ee5a32fef2b208254b1cfc71b36a9264dc8fec02cfc6c82e",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "config/modelo_composicao_historica_ibrx.csv",
+      "bytes": 12,
+      "sha256": "f31cf4778dc4a557c22469e5354e3b66afcd4a5ad1e6d70dd64a62bc90477cbd",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "config/universo_exploratorio.csv",
+      "bytes": 1449,
+      "sha256": "0932e5add81d55d8131a42176f3a618b10f2e7808736c2c5ca4d9fcc444b22dc",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "config/validacao_etapa2_protocolo.json",
+      "bytes": 4153,
+      "sha256": "16663050dae5a4dbd1bcf31a5460aea988333ec3627f1c2d80f29caa5a65626b",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "dashboard/index.html",
+      "bytes": 176992,
+      "sha256": "15f17e4175da5c317e23333ae675b1ec3c304a26c06f17cf69bc91df01502e99",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "dashboard/validation-panel.html",
+      "bytes": 5590,
+      "sha256": "ef7f5286e290b7f74b2bc9558a9638e709ab56ce862cc04a255a2eeb33b2f653",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "dashboard/validation-panel.js",
+      "bytes": 10176,
+      "sha256": "847b60fc4f0563f2fabd8cafff1eabe15e9c9e393d6653d36e9c5d0bda88710a",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "notebooks/guia_didatico.ipynb",
+      "bytes": 7666,
+      "sha256": "4997a6721d577be9877c4cf0ebfd1ba84882431d0b4b59291206702a2902c674",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/auditoria_fontes.json",
+      "bytes": 2805,
+      "sha256": "52b7168bdc4ef368beb923cbc4cc4d3f8a25b2bd33be6d55ac62074486039779",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/backtest_results.json",
+      "bytes": 1189549,
+      "sha256": "3f85edec80b917ba403502de0c22f6c32175f4a22dba7d3d3cc4971749ed66b9",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/cache_cdi_sgs12.csv",
+      "bytes": 46210,
+      "sha256": "54ae1a2c53fe1086915d60a449a599a15ea1cd2fbba894e0ed9ff88a041bdd13",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/cache_ibov_yahoo.csv",
+      "bytes": 45638,
+      "sha256": "d1473633eec98b129de30672e0ddfc2c64e2e332723d77fea831aec3abb462a8",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/cache_precos_auditados.csv",
+      "bytes": 7636225,
+      "sha256": "06c3e3e86f0a829ac2aa163a25033ec2538e41f1b04c22d2a25c34afb9ded897",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/cache_precos_yahoo.csv",
+      "bytes": 6530124,
+      "sha256": "92e90641f34d8feb18321f79ca69a60d695bfbf8e0157ed568e8c5bc5a525b64",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/carteiras_por_rebalanceamento.csv",
+      "bytes": 246015,
+      "sha256": "aa2b80f1d4032a54782e595103ae6914f9e47b33b9d4e94e128bfc34982c852b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/coleta_yahoo.json",
+      "bytes": 1931,
+      "sha256": "4fcfb6a59b43c59ccf212de75fd889f44b93ae4b626d60b120b009406ff6a209",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/correcoes_precos_b3.csv",
+      "bytes": 142710,
+      "sha256": "c11c79c8b2828bc6426df302f329c579ec645b977c44dde000bf127f7dbfd1cd",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/cotacoes_b3_auditoria.csv",
+      "bytes": 5524964,
+      "sha256": "59a4332b5866bcc32a66ed6d7d13b1bb16cb1a261260cfd0cc49c059cbef1604",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/dashboard_com_resultados.html",
+      "bytes": 1768656,
+      "sha256": "14af3c05b3a55a4aeb3daf6c5eada32b6971d508d0d370ec3b2d63f360cd4e9a",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/dashboard_com_resultados_etapa1.html",
+      "bytes": 1366989,
+      "sha256": "9475b880cb95e224fe54a21fa7a7b0bc92304ed0852545ca49abad3b0433ddb6",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/divergencias_yahoo_b3.csv",
+      "bytes": 474775,
+      "sha256": "34a0ef7be192ecf15927925ee042dfc77dab45ed242e1f982c81e124172ad108",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/eventos_corporativos_yahoo.csv",
+      "bytes": 48478,
+      "sha256": "7836d30495068276bfa41739ae517368153a8007bc85416a4235af32bc408792",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/manifesto_execucao.json",
+      "bytes": 2923,
+      "sha256": "954f1b79bddcd875056ec69a057374becc3f1efa6ac1db0658f5bf28ca7877c8",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/market_snapshot.json",
+      "bytes": 13848,
+      "sha256": "4df2d0cff9b015568ee21d00a712cd6697ce6e3427f193fbabeebd022ea72909",
+      "destination": "captura transitória; manter local, fora do histórico publicado"
+    },
+    {
+      "path": "output/metricas.json",
+      "bytes": 6530,
+      "sha256": "ad79ed8b9cbacdf236e4d452476aa2cf4a39547d946e974c1438c8d703946f4f",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/ordens_e_custos.csv",
+      "bytes": 190469,
+      "sha256": "f454c66fe52d6373871abe1eafcdaa227ee765591da59155c305776f244bf091",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/patrimonio_diario.csv",
+      "bytes": 348908,
+      "sha256": "e20bbd45ca02bafc1db62d6b09e02d0104c01d9ff41f66faa741c4f1aa6c7c16",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/registros_fora_calendario_b3.csv",
+      "bytes": 2535,
+      "sha256": "e9f1e7c862ccc8724be10878a02da88ce88b8ec5ac28fe9ba84b1f84b3d6854a",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/RELATORIO_BACKTEST.md",
+      "bytes": 12642,
+      "sha256": "b7c743381482b2f29a26f8cdf3fe99befdb0d18472f24c8e4741d22cb81dd694",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/retornos_mensais.csv",
+      "bytes": 10115,
+      "sha256": "735ae8edf8f029eaf1c55b5fc6e7974a0a3e188b067637e7147c1fbb51ff5cfa",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_execucao_real.json",
+      "bytes": 470,
+      "sha256": "1c0ed5443bdc33d25f9d18ebaa1fdf5a16f1723ab395045fe478ba6eaae545b1",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "src/audit_sources.py",
+      "bytes": 6624,
+      "sha256": "cf35c690bfd1e936f1754015e38dbf833cc966cba0d7afcae6c902b085d2133d",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "src/dashboard_builder.py",
+      "bytes": 1196,
+      "sha256": "7051afa20673bd576ac3d578dc579ad82e94a767749f07ff8be16346c89ce5f6",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "src/data_sources.py",
+      "bytes": 9314,
+      "sha256": "d132cd5f2d8d4bc183ab2bdfe56329d81578591c37ff0f626baa1e90f4671630",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "src/engine.py",
+      "bytes": 20080,
+      "sha256": "d174cd02a89f21bde3e99feab6cbe96d4585bda718137ebcc2c6c39c12e1e411",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "src/market_monitor.py",
+      "bytes": 13826,
+      "sha256": "825cf0877191b97840ee120def620c991115a66d027bbb9007969610bbb5f371",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "src/market_server.py",
+      "bytes": 4361,
+      "sha256": "51ccd503ff40f5da9d48298750a5c7b8d1ad909d498de99999bbe722c25a7461",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "src/run.py",
+      "bytes": 8115,
+      "sha256": "65ce0ba872e497c165d67e05a0aca61d1239a1d2d9bfa6fdaf23dfe90496bd5b",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "src/validation.py",
+      "bytes": 20027,
+      "sha256": "a48ddffab75952bcde866b72dc7d2c92c5d12e6c48f10ab7662799dfe8d1bf9d",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "src/validation_audit.py",
+      "bytes": 11955,
+      "sha256": "794d90a8932d6d54ea17a51171b1f1e72e5b5d3940738deb772a2f3fc06efe7a",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "src/validation_data.py",
+      "bytes": 3205,
+      "sha256": "6ea20687c8a33c1ebe778d3417feb4ed4654d7cf68728f79d76ee1bdc5285000",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "src/validation_report.py",
+      "bytes": 38737,
+      "sha256": "f73b4aa6d0a2471fdf6755f52708ef5698410a505138307a1d4de3c98f26ac0f",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "tests/test_engine.py",
+      "bytes": 9476,
+      "sha256": "191a91d52e1fa98f67bba19f902adc2b4adb2325a4db314a97e66480ca95baba",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "tests/test_validation.py",
+      "bytes": 5186,
+      "sha256": "2e8c4181715d7f92072e2cba0734fad94acccbce8a79b7562e309914b594e797",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "tests/validate_real_run.py",
+      "bytes": 4364,
+      "sha256": "0d8a706f7f2d683fe3998d0493fdee429e6c15f7231cc8dbc5aba14676a832d4",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "tests/validate_stage2_real.py",
+      "bytes": 6197,
+      "sha256": "e6dcdb0e81858867f632e93079ff3b795365aa4d1821bc43b9e4433290c802b1",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "work/auditoria_b3.log",
+      "bytes": 1550,
+      "sha256": "852949fad994941fc69c969a500e2d35139633f3ab33303af6aa4d5b20ef14ae",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/backtest_final.log",
+      "bytes": 768,
+      "sha256": "4358f0a4a52e4717141aac5da042ba0001534a89cd58a32ab88496b2887ec3b9",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/build_delivery.py",
+      "bytes": 15499,
+      "sha256": "ace2fce439d169fb98fe26a7798185063649735687bab8dd6c185b8c902292c4",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/COTAHIST_A2021.ZIP",
+      "bytes": 49678679,
+      "sha256": "b0d4aed17d609c7ba615a23320c2fd513b580a251ae7d884a5015ef8a3fe4705",
+      "destination": "duplicata idêntica; fonte canônica em work/b3_raw"
+    },
+    {
+      "path": "work/download_eventos.log",
+      "bytes": 1205,
+      "sha256": "06969536cefeb06f0de612c07e759c708ac71a185def1ef5bd2452704004c5ba",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/precos_primeiro_download.csv",
+      "bytes": 6530349,
+      "sha256": "490e4efb1c94b7efef9f638e4b7ca82a7ed66239542bf128cc47074e4f6530e4",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/primeira_execucao.log",
+      "bytes": 2502,
+      "sha256": "a1a1e945216d1ae2ecdb060412efc769c408b08f2b1a4270b0001febe6793a0e",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/server-error.log",
+      "bytes": 1563,
+      "sha256": "dc9878347d0482c84bf4302c02b08c1f630e061b1f0b2eb8a314ceda956b3dd3",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/server.log",
+      "bytes": 193,
+      "sha256": "00a52a3e3d165d64fee44c35e69d2324a3a9b6e94756f016291fe85aa098d0d7",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/testes.log",
+      "bytes": 1638,
+      "sha256": "4fc9c5facb8812faa222e33ed3f81602858fb3eededa68e8d2efaca2128278bd",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/ugpa_original.csv",
+      "bytes": 294538,
+      "sha256": "2bd44fb1924af569a5442e6e3ea0c812934516b7bc0ec15145e69190c7b23cc5",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/ugpa_repair.csv",
+      "bytes": 307736,
+      "sha256": "f7a3ad569db2dbbd9497dcfcaa9a43a560d381222f408dc4e24382613e745dec",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/validacao_real.log",
+      "bytes": 492,
+      "sha256": "68149cc7c874f162814c137d772b5b1641e115f41811c93916915dbb0fb095e8",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/b3_raw/COTAHIST_A2018.ZIP",
+      "bytes": 19488404,
+      "sha256": "9d66136179d9822476c6035000167aecf2665f4396619e4d74c0011745a0c507",
+      "destination": "asset B3 separado na Release; origem e SHA-256 preservados"
+    },
+    {
+      "path": "work/b3_raw/COTAHIST_A2019.ZIP",
+      "bytes": 26650371,
+      "sha256": "5170d3f8f079c3306424b36c2fae9b467391f8fa37d16d389f487b4c5c28edb9",
+      "destination": "asset B3 separado na Release; origem e SHA-256 preservados"
+    },
+    {
+      "path": "work/b3_raw/COTAHIST_A2020.ZIP",
+      "bytes": 37181542,
+      "sha256": "86442168939b9da7b3cc1ec1662c333ee5ab4c75f2be1865b5bf55ba4c52168f",
+      "destination": "asset B3 separado na Release; origem e SHA-256 preservados"
+    },
+    {
+      "path": "work/b3_raw/COTAHIST_A2021.ZIP",
+      "bytes": 49678679,
+      "sha256": "b0d4aed17d609c7ba615a23320c2fd513b580a251ae7d884a5015ef8a3fe4705",
+      "destination": "asset B3 separado na Release; origem e SHA-256 preservados"
+    },
+    {
+      "path": "work/b3_raw/COTAHIST_A2022.ZIP",
+      "bytes": 58597842,
+      "sha256": "a4f9015b755f797d9c08b0d13f19dbfab18a6c75f379c0271a1cf1b5f6323cd8",
+      "destination": "asset B3 separado na Release; origem e SHA-256 preservados"
+    },
+    {
+      "path": "work/b3_raw/COTAHIST_A2023.ZIP",
+      "bytes": 70216090,
+      "sha256": "ad1603788d78aaa1de806498572277f1d9443f88ae116452751b5800cb23523e",
+      "destination": "asset B3 separado na Release; origem e SHA-256 preservados"
+    },
+    {
+      "path": "work/b3_raw/COTAHIST_A2024.ZIP",
+      "bytes": 79261198,
+      "sha256": "96a003d10fab0fa2ace0c64cdc2b892b4c111adf9da8e538aa0b28437bd2a172",
+      "destination": "asset B3 separado na Release; origem e SHA-256 preservados"
+    },
+    {
+      "path": "work/b3_raw/COTAHIST_A2025.ZIP",
+      "bytes": 89056788,
+      "sha256": "6cc0ad851c8f605ca30418acac48be81f1767f6ed05b4f563772d06ae448047d",
+      "destination": "asset B3 separado na Release; origem e SHA-256 preservados"
+    },
+    {
+      "path": "work/b3_raw/COTAHIST_A2026.ZIP",
+      "bytes": 98992554,
+      "sha256": "3b1bd313970a79d21bf3fdd9a02200c648ab7d327661aff8d1c0b489f45394bd",
+      "destination": "asset B3 separado na Release; origem e SHA-256 preservados"
+    },
+    {
+      "path": "work/etapa2/auditoria.log",
+      "bytes": 3700,
+      "sha256": "3fd1f27079373dc330e0e6af62be645c320afada53827a900032ccf635c6b755",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/b3_index_main.js",
+      "bytes": 625297,
+      "sha256": "7caa733edd7fc1ca92ff267602dc8c15f8ed273bd3611511cfc595b1f4406821",
+      "destination": "cache de inspeção de terceiros; manter local e registrar hash"
+    },
+    {
+      "path": "work/etapa2/build_delivery.py",
+      "bytes": 4842,
+      "sha256": "29c36f98c40598a051ea649ddbff71aeb023ca325e81a572f8b6de767696670d",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/comparacoes.log",
+      "bytes": 1247,
+      "sha256": "f6edc94c2105e3645efddc989156277182d7d9db17af8a18504adca913d6a75b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/dados_oficiais.log",
+      "bytes": 1728,
+      "sha256": "f40e5c4a3715372b7a2ad71970e6710ca9b252b85007e2479829435de216a4a7",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/dependencias.log",
+      "bytes": 438,
+      "sha256": "9e339ef2e4e41509c95f03ded62063c909b1b37faffb9da0babd0f3fa77417a6",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/documentos.log",
+      "bytes": 632,
+      "sha256": "76986044897ca5a6897105381762377897a7ad561ac873c025c7533afb303d71",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/documentos_2021.json",
+      "bytes": 29600,
+      "sha256": "6db11f3845ebc09648791abdf1a213230406f178a068148634a48a6a9cb6e4dd",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/documentos_2024.json",
+      "bytes": 22072,
+      "sha256": "748715e265fe39e22b8284f66f13ef1f38eea00ce4868e72461aa3c41eeb355b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/documentos_2025.json",
+      "bytes": 37567,
+      "sha256": "c5c958a1e2e043fbed1cdc910e0363a1a7bdd78a2ded3f798cabdad66bbaff45",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/etapa1_antes_da_auditoria.zip",
+      "bytes": 7065022,
+      "sha256": "693d5c1dcf9fddc326c8032b22d609376a5465cac5c82ad2e39b482c2a320e9e",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/get_documents.py",
+      "bytes": 2161,
+      "sha256": "8d36bd7aad693891ff939b36c4f7e4546d5e7611f6b4ce581d4673dac8aee940",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/index_probe.json",
+      "bytes": 9501,
+      "sha256": "35b115541dee2d2f9e2388facf952e1438f2775488b6053ba43a4777d64f9bfb",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/inspect_index.py",
+      "bytes": 636,
+      "sha256": "20a2eeaaa0cd6a0cb8a0251c5a4a868c3327de9a73e960838a5af8df526c460e",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/ipe_cia_aberta_2021.zip",
+      "bytes": 2258012,
+      "sha256": "b5ad4dcc2c0376027a23ed372469feaea11bf0dfd7ac75e2bbe99fd6b8f78ee7",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/ipe_cia_aberta_2024.zip",
+      "bytes": 2179005,
+      "sha256": "65878657e487ba86b717e93f112a11cf08faf0356ae245ef6e0e72b0fbac80e2",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/ipe_cia_aberta_2025.zip",
+      "bytes": 2268059,
+      "sha256": "8e0be043281fc12d118554cb270ece498881cb5b6ca97fb777c18fb95494e782",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/ipe_relevante_2021.csv",
+      "bytes": 446016,
+      "sha256": "757d9bb66e4218348dce76abbe24bb2791d7bac0737e39549c4bca5578c53e90",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/ipe_relevante_2024.csv",
+      "bytes": 381136,
+      "sha256": "04dcfff5821f4b16dca3b5e80821276c6be7e93f7fbeb113a1ce281c6066700b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/ipe_relevante_2025.csv",
+      "bytes": 473834,
+      "sha256": "c2ae7a476cd6190d28e210cbf1ee34941d889fa8d6fb347caf62ffe884e9d0a9",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/jbs_2025.csv",
+      "bytes": 1591,
+      "sha256": "a413ac8f1c6f0edca368ea111cd553369601e8e801383b7b77e25c3ca3558030",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/probe_b3_index.py",
+      "bytes": 692,
+      "sha256": "ac0a5fc40abc8afe3b68b6eaac1bf173d0d13f287c8d1ac030f1e0961eaa15fd",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/relatorio.log",
+      "bytes": 153,
+      "sha256": "d7b8fe0faf126015614802bb41d9b9b3e43daaffbe69563b0cfc44e6ebe17503",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/testes.log",
+      "bytes": 3363,
+      "sha256": "1c70c0e788ab217752ee12d1063f98392864115f05f7679247ef676162632480",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/testes_pre_comparacoes.log",
+      "bytes": 1638,
+      "sha256": "547f893153d9fa6dc773e0ca780d9b8f4a758cff6045697203497fa81e8f6e43",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/validacao_independente.log",
+      "bytes": 1540,
+      "sha256": "53d00b00fcca95d4cface60c99a8c6598dd9cbbe20dda928de0d57d38e436c27",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/BRADESPAR_2021-09-21_902373.pdf",
+      "bytes": 99339,
+      "sha256": "bd2d56c83192adb084a1819a0c0fc12df8d30c667eafe30956fdf3b12c11832f",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/BRADESPAR_2021-09-21_902373.txt",
+      "bytes": 2994,
+      "sha256": "1544e99473258150e1c17c4eee24344fea631f9ec9767faa748936ebbe77bdfe",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/BRADESPAR_2021-11-08_914312.pdf",
+      "bytes": 116002,
+      "sha256": "b8417ccf54bf9fea8100c75e3e167c30435c5cba0036e4d1c9f6995e48aa8491",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/BRADESPAR_2021-11-08_914312.txt",
+      "bytes": 2911,
+      "sha256": "11ae63e03e878ef1a22b4b4cc7ff138ed2b7cbd057816e245a9367ed22cf9123",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/BRADESPAR_2021-11-11_915967.pdf",
+      "bytes": 99152,
+      "sha256": "ed23de8901edaad1a6ce50ad9cb6186bc1e55d144764736ae8e6fb4a41a05b86",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/BRADESPAR_2021-11-11_915967.txt",
+      "bytes": 2727,
+      "sha256": "3dd7ba77694bfb4d4c36066cc0e0e8f513b991d59fba728a3e2b6ecabf6d79c0",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/BRADESPAR_2021-12-17_926814.pdf",
+      "bytes": 97781,
+      "sha256": "9ac7c7f5a5ba4e77b02a5368a08bd2419277cc046a80c15f941dd65334b8c854",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/BRADESPAR_2021-12-17_926814.txt",
+      "bytes": 2038,
+      "sha256": "aefbade0d4d9f61c50f0b401191b65b98f7acf33f599914482a18d3453cd07e6",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/COPEL_2025-11-17_1446409.pdf",
+      "bytes": 267410,
+      "sha256": "0f33c1c11a7b47f4e4dafc8aa5c1a316b4a0b83cc1ba291c48cb7ce8f97efe9d",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/COPEL_2025-11-17_1446409.txt",
+      "bytes": 2697,
+      "sha256": "82561278abf4f46a470249ee0e20016adf7ea5d402e2956cc68a8a4949de0027",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/COPEL_2025-11-17_1446410.pdf",
+      "bytes": 366407,
+      "sha256": "4b91e1a1ca6c58a51545c61251c614699be359f80a7583be8073e7e36547c702",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/COPEL_2025-11-17_1446410.txt",
+      "bytes": 15368,
+      "sha256": "83b75430d6ab729b10ad06483bb6cd6e380a80d6e67a181a54b613e78ab0f674",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/COPEL_2025-12-22_1459986.pdf",
+      "bytes": 404592,
+      "sha256": "4c298934765cb24b6456c8b663262eb50c2bd29ae4752ff36049c1896c487ade",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/COPEL_2025-12-22_1459986.txt",
+      "bytes": 4092,
+      "sha256": "8a1335ca0a713ae28c366d2c464fbc6f5607b678a654c3fc1a031827af85b00d",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/JBS_2025-06-06_1387922.pdf",
+      "bytes": 341040,
+      "sha256": "a351fb3a9e9db17b660587b2d25b903d60029a38b4c9a8a47e1760de8214179a",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/JBS_2025-06-06_1387922.txt",
+      "bytes": 19906,
+      "sha256": "673a0d5dcf1f004a160f288acee95505ca1280229a30ebe53a30afd1ddf713f1",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MAGAZINE_2024-01-26_1186895.pdf",
+      "bytes": 326470,
+      "sha256": "0e949627f4705594435cc92e6805ceb325ac1809790e57ed214ea3c0545f172d",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MAGAZINE_2024-01-26_1186895.txt",
+      "bytes": 63102,
+      "sha256": "2ee4eb4d71db83f6f5c625fa8540ce63005b5c3ac0cc1c8190285d09999ebbf5",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MAGAZINE_2024-04-24_1183455.pdf",
+      "bytes": 314977,
+      "sha256": "f7efacb2758ebf0aec5f188614a1180e48d410d510f361eaa8cf035a1025e0a9",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MAGAZINE_2024-04-24_1183455.txt",
+      "bytes": 1954,
+      "sha256": "be491915600514212e79ae7f8343a8ecb7635a21624843b899322b1710f6e0a1",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MAGAZINE_2024-04-24_1225389.pdf",
+      "bytes": 178735,
+      "sha256": "3c31399d1ef89a59484a571a696ef0e974eb71774138e3b40892760b34e8a9bc",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MAGAZINE_2024-04-24_1225389.txt",
+      "bytes": 7355,
+      "sha256": "cdfe6a2d01da5e62bafc9d2b5f0314bf984219af6e34347c0656d9fcfebebd5d",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MAGAZINE_2025-12-22_1460683.pdf",
+      "bytes": 301150,
+      "sha256": "900628d56db69141ed0b66aed2d08083ac689708c44109b9ea60628a002eb06a",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MAGAZINE_2025-12-22_1460683.txt",
+      "bytes": 6331,
+      "sha256": "0317e08d197cd708b47b009253e6c21e7615980d95c3b251be482e26a3ba1312",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MAGAZINE_2025-12-22_1460685.pdf",
+      "bytes": 1159085,
+      "sha256": "3d5791a4eda10b888ddb88b860c96396bf74440657de377a2ec3d413c75c58d3",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MAGAZINE_2025-12-22_1460685.txt",
+      "bytes": 36427,
+      "sha256": "b87c45797b2867f1dd0c72b3e9dc46ffbc7399b38cdefe9046a868c628a8279b",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/manifesto_documentos.json",
+      "bytes": 7454,
+      "sha256": "279f97eb349f9cb10bab24c8cbf35c244ccd7664247e62fde8e76a9b49b88425",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MARFRIG_2025-09-08_1421385.pdf",
+      "bytes": 283855,
+      "sha256": "eb8b617986df95641c15e85c92de363d205a05e58c5a659051e8179c9c7091e7",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MARFRIG_2025-09-08_1421385.txt",
+      "bytes": 14783,
+      "sha256": "228b5fb1b094cd95fbc9480cefdf660e8f361641eed7898dd1938e01e68dd32a",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MARFRIG_2025-09-08_1421390.pdf",
+      "bytes": 227775,
+      "sha256": "4c3e8b1cd3f509386ee3bd5f9fb1c1ede6dc07e900c70d21e0bd4c74953196f8",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MARFRIG_2025-09-08_1421390.txt",
+      "bytes": 7577,
+      "sha256": "01fe5a855a83bc935b57822f2ec281ecbc367e4d53f6a20824811237ad54567a",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MARFRIG_2025-09-08_1421391.pdf",
+      "bytes": 242737,
+      "sha256": "22d50990da40bc7f7775b0b4a4b041d2c70e5b3d57008afee9e3992e4cc3a0c6",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MARFRIG_2025-09-08_1421391.txt",
+      "bytes": 6676,
+      "sha256": "9f1a9ae67546390fa5cd9e847ecb707bb3815c96be071d2ed4400580b4d5daaf",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MARFRIG_2025-09-08_1421458.pdf",
+      "bytes": 249139,
+      "sha256": "5bdd03e0b57faf391d1a91754282f393e8d1f4fb8cb51f24a398610c507420c5",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/fontes_primarias/MARFRIG_2025-09-08_1421458.txt",
+      "bytes": 7409,
+      "sha256": "046472cfc144bd463fe9a4b9ce183f70f156ce8d778a1f445872676c6a0b984e",
+      "destination": "original local preservado; URL/hash no manifesto CVM, sem republicação integral"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/constants.py",
+      "bytes": 24233,
+      "sha256": "579bd3b09defab4b63ac63f7effb4713ade10722c8c7799b8566aa80917c3624",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/errors.py",
+      "bytes": 1947,
+      "sha256": "070d56f61c4eb03830ab053a628436974f89894c93aba979423542afe5b81850",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/filters.py",
+      "bytes": 39120,
+      "sha256": "c870b8235de4b0b93b3e01d0ef2c2b490db3dbedaafc0ec47736dd3d40ac5f93",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/pagerange.py",
+      "bytes": 7907,
+      "sha256": "0209c3144e2959cf34d1800cfec3dc1afcb6f747f70f93588abaf6e478753b46",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/papersizes.py",
+      "bytes": 1413,
+      "sha256": "e93cf9b1f34dff724e51aa58f3753e95a928867a57600d2148440d98e54b14bf",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/types.py",
+      "bytes": 1915,
+      "sha256": "b09ef01f393b111fc227b90ffacf2ef5ac459e40979c5a6bf27cdc8f50314dab",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/xmp.py",
+      "bytes": 32259,
+      "sha256": "0fb1996e355223d8ad669d289f16eb7e0ad9cd3314e8005cdb4c03defd876fea",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_cmap.py",
+      "bytes": 21809,
+      "sha256": "8b3edbb61399302e966cbaadd6a863708c2b4de85bdb69813851ee9eea6de926",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_configuration.py",
+      "bytes": 12162,
+      "sha256": "9d8c16d16023b0612f61ca03109159d8cb6345d91cd35b8d7fce52bebc9efc7f",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_doc_common.py",
+      "bytes": 66612,
+      "sha256": "fdb120c74ef3bd723b0783a9dbe23ba08331532d149ce01ca5aa50b4d571b115",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_encryption.py",
+      "bytes": 56890,
+      "sha256": "342c3ee9fd8cca74bf4be3fe3cb60cc9651aac6025b38f34820321bef85c29fa",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_page.py",
+      "bytes": 105240,
+      "sha256": "d048e72108dc64e16d12d647eee729362abe3630b897d32f0e40b3985d5a763a",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_page_labels.py",
+      "bytes": 14318,
+      "sha256": "874759c0ee0376c6924b629f553528f21024ac9c14a71987012546907d89115d",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_protocols.py",
+      "bytes": 2397,
+      "sha256": "4e4ea32b83d1f71cc4ec44e7a9a7f6ef5494299913b3a2254672d118f9588ff7",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_reader.py",
+      "bytes": 78590,
+      "sha256": "55bbb1b10a5721a7bad12954a598f6f8beaaacd138d2f771cd97e8b99a1d0514",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_utils.py",
+      "bytes": 25450,
+      "sha256": "cfaea0f7eadfda43798adaba2bcdf91e804ee11c12c772e11e6591f39be78e50",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_version.py",
+      "bytes": 23,
+      "sha256": "0d7708d5feb00100c4ccc8d09469a7131dc4d01da831deb95da7e2b29c0fc0ba",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_writer.py",
+      "bytes": 142647,
+      "sha256": "1e95f388a3d6d716fc31045c31a5c9a6f17538325823c4ca4a17431d39163f03",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__init__.py",
+      "bytes": 1494,
+      "sha256": "d7786f1b3cb2e52e28b1085f0ea150fa7f029baad252b29af7415c790871f7df",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf-6.21.4.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf-6.21.4.dist-info/METADATA",
+      "bytes": 7639,
+      "sha256": "383b3d4cd588005f67afc74b113cbe19ea008691cdf18db3795601116a3d8139",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf-6.21.4.dist-info/RECORD",
+      "bytes": 8857,
+      "sha256": "03b3c31d15809d6e327bf4ea23eb25a3074e991da589faf0443e92fc93b71594",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf-6.21.4.dist-info/REQUESTED",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf-6.21.4.dist-info/WHEEL",
+      "bytes": 81,
+      "sha256": "acb244f0e2cf0596f3eedab1b35c83fb003e0036b511ce4fb9853e63f3cd5832",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf-6.21.4.dist-info/licenses/LICENSE",
+      "bytes": 1605,
+      "sha256": "a97ac230e5f33ef10a5367a850eb01f91f1a0b064e34742c7794d2294557f524",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/actions/_actions.py",
+      "bytes": 7648,
+      "sha256": "9ad300bde70c006ba9484e0d78296103c0dcdafa75038248f3bde6a988cd6c4b",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/actions/__init__.py",
+      "bytes": 391,
+      "sha256": "d8bdd81ef60846bab097640490991e4b63bd6b521eb0356ed696e24854299518",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/annotations/_base.py",
+      "bytes": 961,
+      "sha256": "608453cd3764aa3f035164939b2d1fae47d3af88e87b91d41b344e5287f8a08a",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/annotations/_markup_annotations.py",
+      "bytes": 11858,
+      "sha256": "c210635217f7c5195cae67829cd82a1679ad2767fb07c2289f82b8e88f74a079",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/annotations/_non_markup_annotations.py",
+      "bytes": 3695,
+      "sha256": "fd2cd3ce864ce01dff1bf57a33ff266c9e7b630d2d024f601db347ea5211ab70",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/annotations/__init__.py",
+      "bytes": 990,
+      "sha256": "7f693ffa3027dfd082076ecac50fdef771a29e7ce40076d49e749e1899758f21",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_appearance_stream.py",
+      "bytes": 43800,
+      "sha256": "4f572ec49a2c290b0389ed7b30758ac21855f1c3b8efc71eeb013e29ebfe22b4",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_base.py",
+      "bytes": 34569,
+      "sha256": "8397982fa37b56d52bfdc1c6fc708cb86b8327f64716f0296ff532fb995d8080",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_color.py",
+      "bytes": 3187,
+      "sha256": "2b10852d96453098d4b9b2f437ad85042a552b37038403c1f6719ba29e3c795c",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_data_structures.py",
+      "bytes": 78171,
+      "sha256": "a2c0ee0c3bac0d584659177263e2e26e4222e5315d7e72838e9f0eb001d7c79f",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_files.py",
+      "bytes": 19706,
+      "sha256": "5a582054cca80cd045b128fdc90ab293ff15d63b75895265302a86f03d277966",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_fit.py",
+      "bytes": 5550,
+      "sha256": "607a2571a31e1c67d84fdb0d1a3dbfd04b52a09619d9a261b4aa9525c03887f9",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_font.py",
+      "bytes": 44016,
+      "sha256": "03628263532c0da3dc56d97166cb1a3d89671ebee88af34692c9758d14dbb462",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_image_inline.py",
+      "bytes": 15158,
+      "sha256": "a708cc06e98c88b0972a6367e6513282b0fd35599c8429c26ff0573a0058f7cc",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_image_xobject.py",
+      "bytes": 28072,
+      "sha256": "90a667695d1002a18545e554352728a4a125754799e273e7c92fb48969e9bf1c",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_link.py",
+      "bytes": 6844,
+      "sha256": "9fe346b50e3f01fb7dfe6d6fd272af4f2b355526ba5b9e0fc5aede36d3e03ca4",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_outline.py",
+      "bytes": 1094,
+      "sha256": "3c4b924f86fe2a6010203009d05872c4dec036626376c59a4ddc4aa3b862ab78",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_rectangle.py",
+      "bytes": 3969,
+      "sha256": "ec7ac97ce31ab906ad0368245a17074a4cc1ec5e245a671afba90d03a1d5a3a3",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_utils.py",
+      "bytes": 8149,
+      "sha256": "33c8bde72a42e65d9eef5d74f157aaf74bdb6d4b65427beefbe256fc0b32c793",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/_viewerpref.py",
+      "bytes": 7504,
+      "sha256": "24c98e21100d57dc69d797483627cbeec256290ba532015f523038c68d45308d",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__init__.py",
+      "bytes": 3525,
+      "sha256": "3bbfbe5ca9a0e6fd1f3f7718960def531794e3c35ceec6b204cb03119eb546b5",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/adobe_glyphs.py",
+      "bytes": 577665,
+      "sha256": "69ac4e46ea50409ee46cb0c76e35a280b67aa60f06f7fe5ea832a2349c72923e",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/core_font_metrics.py",
+      "bytes": 114976,
+      "sha256": "dbb26cac9a39511246215ed90ce09427259f066e8b0567aaeefdce5b3a05f21f",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/pdfdoc.py",
+      "bytes": 4269,
+      "sha256": "c5f4af30562cbf1b9a490d14bbdbd90ca681d16bbce61d6e0a20758bdac07145",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/std.py",
+      "bytes": 2630,
+      "sha256": "0f240cb84a40184a52f6ecb58d67f87278fe92a4a13ce0228f9b08ed0d580fc1",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/symbol.py",
+      "bytes": 4642,
+      "sha256": "08fe958d172c72b9bcca6007f74c6977155a7a5c22e8c49bd536f5c0d0e1d359",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/zapfding.py",
+      "bytes": 4655,
+      "sha256": "e39a9c635d716c1c2da21ebfb7467fef33631bbfaa238d752d14155d828faf65",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/_codecs.py",
+      "bytes": 10712,
+      "sha256": "ead39a397326cd52a6e0a433e33bbf6cd0cae6e24fb6ab06b93e069c4a764c43",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/__init__.py",
+      "bytes": 1519,
+      "sha256": "574b0332eb98897f512be3fafb06e7724b81618c1f03014ca49823e13683dffe",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_crypt_providers/_base.py",
+      "bytes": 1735,
+      "sha256": "34505711d85bae0f64d353d57cd37f93b94401897606481720e8b9a1f53ff91f",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_crypt_providers/_cryptography.py",
+      "bytes": 7313,
+      "sha256": "33183bb4201aa15e950085a97ee874e2af254be0aaeb9ab0de643d7e93100526",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_crypt_providers/_fallback.py",
+      "bytes": 3382,
+      "sha256": "81772ba3f2bbab82180cbe57195471a059978d75cc6ba4e57830f0c56c828f81",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_crypt_providers/_pycryptodome.py",
+      "bytes": 4050,
+      "sha256": "bd9102129a13f4ebe9a46ebb74aec456de51e5aa491bd5fce588a3479ed2a6f6",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_crypt_providers/__init__.py",
+      "bytes": 2770,
+      "sha256": "c5441b160310bca31a38e4f7454756ddb4bc7d94a147c3c13b3eab7ac7f05855",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_text_extraction/_text_extractor.py",
+      "bytes": 15828,
+      "sha256": "baca865ba63ef8bee5e737499fb606901092d5110141ed1a673a146f95fe706a",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_text_extraction/__init__.py",
+      "bytes": 11085,
+      "sha256": "6adc0f09de4efbdd37d61b1681e5263f1d9132cf57e8812254a97fe278e0a8d7",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/constants.cpython-313.pyc",
+      "bytes": 27032,
+      "sha256": "034cf16740462409ee7aa0b322339ffb6cc13e39f5226c8a81a60581131b9894",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/errors.cpython-313.pyc",
+      "bytes": 3983,
+      "sha256": "a7f55ca337bd2315d98336f61c95497d13bdf63a65fedfc93090bcc7745788d7",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/filters.cpython-313.pyc",
+      "bytes": 40477,
+      "sha256": "d36572d39dbc145a927dc0c4fc461ad04c55faaa31d7e4a98bd6580fe899be43",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/pagerange.cpython-313.pyc",
+      "bytes": 10212,
+      "sha256": "a5dc0afa596b92c40342aac14b1a75b5af709d70b9f1e23e921347e8eaa7b972",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/papersizes.cpython-313.pyc",
+      "bytes": 1572,
+      "sha256": "bdda535171783c253e5240730eb57f0ba90207afec7af053f079b37426cf43f7",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/types.cpython-313.pyc",
+      "bytes": 1851,
+      "sha256": "85f3e858caba305a2fc1e15630f5cfd08f0085d9ce3d31e01c3e987ca6075f4d",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/xmp.cpython-313.pyc",
+      "bytes": 43140,
+      "sha256": "cc810070391061bcfdff71de10806b4eb8e7a7eae71c6c8f540ce8a9a2531ea3",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/_cmap.cpython-313.pyc",
+      "bytes": 20879,
+      "sha256": "f7afe32baf7e86d993bb36932b23e80ef8f4ea6b9716c30280115f31d5327803",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/_configuration.cpython-313.pyc",
+      "bytes": 8865,
+      "sha256": "9ee7b3413101b26cd57266dc1dff84a7ed24777d2b8f56d732aacf1771e3e84f",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/_doc_common.cpython-313.pyc",
+      "bytes": 72149,
+      "sha256": "70c0672dea4d566c6f3c6620fda9b675d9588981dac6edff42882e0f5f01e272",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/_encryption.cpython-313.pyc",
+      "bytes": 58298,
+      "sha256": "f6c0ac4741b7afb6993ac7958d895326c1f2063ac045a19e31f8354e96d6146c",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/_page.cpython-313.pyc",
+      "bytes": 112598,
+      "sha256": "fc7781db1bc39160c0803b6e544b3c2865174ae0e18aa3d4bb6d721c33d467ec",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/_page_labels.cpython-313.pyc",
+      "bytes": 14334,
+      "sha256": "0a1f81514ae8a34409fff627b0336ff92c1492798c59949fb7c10ceeed743708",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/_protocols.cpython-313.pyc",
+      "bytes": 4852,
+      "sha256": "c224b14ddf23daaf56b518b772afd6a30022c67c9bdf4cb909d4996043530a8c",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/_reader.cpython-313.pyc",
+      "bytes": 70892,
+      "sha256": "7d8dbf063cf1ee19671bfcd730cfa42c57b3817851dcd5c4f0bbedad1ebbc125",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/_utils.cpython-313.pyc",
+      "bytes": 28692,
+      "sha256": "ef7d4bc103b769efc3c3899d07733956dfb940ff95a2c2d91a6f767c2992f00e",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/_version.cpython-313.pyc",
+      "bytes": 206,
+      "sha256": "73ddd5266b6c9fe7e2342547a00138a1d19624ee5c84bf2cdd2fef81785d663b",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/_writer.cpython-313.pyc",
+      "bytes": 150062,
+      "sha256": "d58d057c9803afc7b0e0db9bc8755c919d4f7ddc93e223cdf95ded7ac498d3be",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/__pycache__/__init__.cpython-313.pyc",
+      "bytes": 1672,
+      "sha256": "6cd5e8aa835586f1e656347a6223895656e4ba18879f5cac953ed42b5a6ed0bd",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_text_extraction/_layout_mode/_fixed_width_page.py",
+      "bytes": 19948,
+      "sha256": "99734328472c3bdd10cafb4a0caf2fb92b2f61953ba2f63287bfcb5e68994605",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_text_extraction/_layout_mode/_text_state_manager.py",
+      "bytes": 9385,
+      "sha256": "994da1a3d4de7eda11690d80c3744b8e6d396ed6bc05b629527bf760001bd848",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_text_extraction/_layout_mode/_text_state_params.py",
+      "bytes": 6617,
+      "sha256": "5634f0811c865ba97a4d0cc3b12ec8205cb3953fa95d41472768ed930c9d5d8d",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_text_extraction/_layout_mode/__init__.py",
+      "bytes": 348,
+      "sha256": "56adb80f37575f9af91995d319579011c9212ed332099acdf207db4a506efecc",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_text_extraction/__pycache__/_text_extractor.cpython-313.pyc",
+      "bytes": 16953,
+      "sha256": "38f02e53d4b0c3f749452d85c27bd343f4ab75968f68fc9f04b84eafb6e26b31",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_text_extraction/__pycache__/__init__.cpython-313.pyc",
+      "bytes": 12230,
+      "sha256": "30d5ef3414f87367145efa894d8c633b320578af6b8eab607dbc88dd194fdd84",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_text_extraction/_layout_mode/__pycache__/_fixed_width_page.cpython-313.pyc",
+      "bytes": 21132,
+      "sha256": "01672f9652453658e14d2cd3ebb3b16fd94f474bc2c2b679b63dbb7ee6dd68b4",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_text_extraction/_layout_mode/__pycache__/_text_state_manager.cpython-313.pyc",
+      "bytes": 12069,
+      "sha256": "60130ff47849b7606d695543ee5061df7b37b3dc42bcb30d051fde92b90682ab",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_text_extraction/_layout_mode/__pycache__/_text_state_params.cpython-313.pyc",
+      "bytes": 9800,
+      "sha256": "9ae029211ccfaa1bf5292153d4769d6ec5a681bef92eeb7cfe8ea967e95c6e93",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_text_extraction/_layout_mode/__pycache__/__init__.cpython-313.pyc",
+      "bytes": 529,
+      "sha256": "a9fb41bfef0fc820a3588c9ce45610a5c9a1f0622d48ca3c46754c716bb4ed7e",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_crypt_providers/__pycache__/_base.cpython-313.pyc",
+      "bytes": 992,
+      "sha256": "e28ff512711a856a10fa82621f1a9446a048ad877f03b619a022262b0de19b84",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_crypt_providers/__pycache__/_cryptography.cpython-313.pyc",
+      "bytes": 9445,
+      "sha256": "64ae5bd5b3be8fef39761946d242cbf359c2fb86d9daa947107cc5c151f992ac",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_crypt_providers/__pycache__/_fallback.cpython-313.pyc",
+      "bytes": 4182,
+      "sha256": "802d33ad038dd4b6dddd0dba2480c2b9df8a2286939e27a2f71905c21fc28a86",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_crypt_providers/__pycache__/_pycryptodome.cpython-313.pyc",
+      "bytes": 5287,
+      "sha256": "bc026ccdc150bcf8e3e478c18772685ec28f5586f97a340ea70deaa0bb5315e4",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_crypt_providers/__pycache__/__init__.cpython-313.pyc",
+      "bytes": 988,
+      "sha256": "ffd5a3031b8f284ed1a36209a2d02a5883352906a06a61e8d8ecc0af17ea9656",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/__pycache__/adobe_glyphs.cpython-313.pyc",
+      "bytes": 875569,
+      "sha256": "fab240e6ec0220f20b6de2e6ceea2c6614517160048027b2483073c8c6c43f94",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/__pycache__/core_font_metrics.cpython-313.pyc",
+      "bytes": 101664,
+      "sha256": "ab90b94713a572a4e8886a40f99f1b387e27b802a40109d56bb06d1c565771e0",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/__pycache__/pdfdoc.cpython-313.pyc",
+      "bytes": 1616,
+      "sha256": "4bcc91ba9c3cda765b3bcbaa4057e774ae85bbb58d20eb3550653260b3f137c7",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/__pycache__/std.cpython-313.pyc",
+      "bytes": 1507,
+      "sha256": "db9fc0b6def37f45d2245058391c23b547c0b5cf6ec924d166b9b7e2aa79c567",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/__pycache__/symbol.cpython-313.pyc",
+      "bytes": 1914,
+      "sha256": "a270679b1d34bccbbd7222833526b3ac2fe178bb33e693c4ff934d37c5e6a3cb",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/__pycache__/zapfding.cpython-313.pyc",
+      "bytes": 2146,
+      "sha256": "978e22c9f738f0b22773e911641f23d59491c0b7e0c6772fa74992d6e6eaa907",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/__pycache__/_codecs.cpython-313.pyc",
+      "bytes": 10541,
+      "sha256": "b0d4d6009cba60f2f01d34242fe9fc4f538b06a08305f503e9c339941d3a164f",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/_codecs/__pycache__/__init__.cpython-313.pyc",
+      "bytes": 2150,
+      "sha256": "cb7f288e23e6ad9f386f43a5cc71494875168551e117d06189b67a8c5a3f18ad",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_appearance_stream.cpython-313.pyc",
+      "bytes": 39833,
+      "sha256": "6e84477305008d51f22076ec66e0ed2e53e628f27c11688a34cf029c1ea1af97",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_base.cpython-313.pyc",
+      "bytes": 43405,
+      "sha256": "c524f83a084bc3eaf09fbdb82168caa3ed7d238fa1e28cb4c458391453cfa5d4",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_color.cpython-313.pyc",
+      "bytes": 4897,
+      "sha256": "73d0dbc2e50cd4e163a1414620f2e448ec62e1b409bb2c45a1d409a85558ca2d",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_data_structures.cpython-313.pyc",
+      "bytes": 83124,
+      "sha256": "73dc1ca246cfbcc12fa1dea513137ed776732069fd4180b2ffc725ec7f681786",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_files.cpython-313.pyc",
+      "bytes": 22577,
+      "sha256": "8e3f3f747cb6d06d8ec22940e6664b4dc53bb8731041670237229a58570b92f0",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_fit.cpython-313.pyc",
+      "bytes": 6562,
+      "sha256": "9f80c71c6ed673b3ec67bd5991c6ec4021ccafb1c3ae36c6cccf74e71dce1726",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_font.cpython-313.pyc",
+      "bytes": 41055,
+      "sha256": "08c0c4897151515a475bd400efb73a6d3a28dcf92ddb7bb10a64474981a38cde",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_image_inline.cpython-313.pyc",
+      "bytes": 11965,
+      "sha256": "255fe13a2e2af1bad718215ac00970dcfcdf846534a93355c95486973317eb9b",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_image_xobject.cpython-313.pyc",
+      "bytes": 26703,
+      "sha256": "84555c5db821074997f01bec1802fe5a053a13c0e2bde8197a4f6528726ed848",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_link.cpython-313.pyc",
+      "bytes": 7132,
+      "sha256": "4b029d3899fa8711dfdc3aa6275e3a504f41e56c1e2a5703c29e0cda5478eb38",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_outline.cpython-313.pyc",
+      "bytes": 1917,
+      "sha256": "c431dff15b0c18f19f71ee9d1eb2a64b942f71c2be855a7bc65134d10c398bfd",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_rectangle.cpython-313.pyc",
+      "bytes": 7834,
+      "sha256": "939d2132e0780005745da728bca8c0cfd7df752f9c970ddafc70b2b210c11339",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_utils.cpython-313.pyc",
+      "bytes": 8942,
+      "sha256": "31e51c0c2abc90cd56e7dae532684c48951428ccc1a9c7915bba6432ccc03402",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/_viewerpref.cpython-313.pyc",
+      "bytes": 9639,
+      "sha256": "327815f52108b528021d95156436b376762d0462b5f927e78b3bc4dcf7dfe84e",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/generic/__pycache__/__init__.cpython-313.pyc",
+      "bytes": 1906,
+      "sha256": "da2b116876b4cf5b86fbb71e0b228d7d2c979a426cc49ad913e98bec2ca3cfa3",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/annotations/__pycache__/_base.cpython-313.pyc",
+      "bytes": 1626,
+      "sha256": "849b2255edc088584d14f00e5c6b32c7c56f6f61106ea06eda47a601c3d237e4",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/annotations/__pycache__/_markup_annotations.cpython-313.pyc",
+      "bytes": 15130,
+      "sha256": "62dd9710692a95dc3b725ce0900025d7bc9fbaacd35e6ff3705a1d0cdb90a802",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/annotations/__pycache__/_non_markup_annotations.cpython-313.pyc",
+      "bytes": 4764,
+      "sha256": "1fbee4e92148136eb3a6f4dceb373dbf51e9be922729ffdbc20b2282937a5895",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/annotations/__pycache__/__init__.cpython-313.pyc",
+      "bytes": 1158,
+      "sha256": "6348ad67b4244fe700a6652d042735722ba67eb6bdc8b08ebc47a847cd8f6639",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/actions/__pycache__/_actions.cpython-313.pyc",
+      "bytes": 8616,
+      "sha256": "ace71dfdd72c23e9fc4a73e89846abfc1ef97d0cca7a65e45ede9cff76ba62d7",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "work/etapa2/deps/pypdf/actions/__pycache__/__init__.cpython-313.pyc",
+      "bytes": 586,
+      "sha256": "cc2c181721e500ed63e2eff4a92b7bcb551a90ffab5bb52b89111e24d24d6226",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "tests/__pycache__/test_engine.cpython-313.pyc",
+      "bytes": 22089,
+      "sha256": "7b8a87e2ce267536502df8cb6fc0cd23dce1c6ff6593bc9a520c514c36d5fae5",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "tests/__pycache__/test_validation.cpython-313.pyc",
+      "bytes": 12462,
+      "sha256": "ba972a6e5a79472fbbe800a928ebdea3e09cc42b79993d99d83c50d293904588",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "src/__pycache__/audit_sources.cpython-313.pyc",
+      "bytes": 11036,
+      "sha256": "5fb14f572f6a5afd4afb4e8723866b582af6d489ace6c5c5894ad50435bc4973",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "src/__pycache__/dashboard_builder.cpython-313.pyc",
+      "bytes": 2154,
+      "sha256": "bf53e093314155ab85d46b46a135893c3721995cb8f1b2424def15c318d8274c",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "src/__pycache__/data_sources.cpython-313.pyc",
+      "bytes": 16055,
+      "sha256": "692f15a3bb9d4ffe3ce616f7a53320fb16288c7fba595c74e92538406463e36a",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "src/__pycache__/engine.cpython-313.pyc",
+      "bytes": 33347,
+      "sha256": "8b7681d682c8a4788549374b7edf0dd4f6eaeb129c0911024cc3747fe94cd827",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "src/__pycache__/market_monitor.cpython-313.pyc",
+      "bytes": 21143,
+      "sha256": "f448f46f81e8cfd090ef5f58e24023c2772cdf630b336465a662aef6d7de0b40",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "src/__pycache__/market_server.cpython-313.pyc",
+      "bytes": 8722,
+      "sha256": "9468405119843ec01b00dd1c2d2c06a78bf17eb4ad70152f0ed7c2bcec859695",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "src/__pycache__/run.cpython-313.pyc",
+      "bytes": 12636,
+      "sha256": "69775a37ac074eaedc6e5930e16c9aca54d3b5d8cc77edf380035e8830b899b4",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "src/__pycache__/validation.cpython-313.pyc",
+      "bytes": 34650,
+      "sha256": "91b34c3da364d1f7b72c428a688bcf0f8d655a8b2ff2c60b0397f23fce4da280",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "src/__pycache__/validation_audit.cpython-313.pyc",
+      "bytes": 17571,
+      "sha256": "878719daa5fcee61ee2a00c5d32e6a219bad57574fd50385d725a361b7f153ba",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "src/__pycache__/validation_data.cpython-313.pyc",
+      "bytes": 6159,
+      "sha256": "18fa242a1c04870652fb47298a9326195a9d725c98420d1d1eaed2292d165ebd",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "src/__pycache__/validation_report.cpython-313.pyc",
+      "bytes": 54122,
+      "sha256": "2fd9770b3277be67100e5f70da800d21a3bc6c96bfc8591284497b54fc5b2da6",
+      "destination": "runtime local; reinstalar pelas dependências"
+    },
+    {
+      "path": "output/validacao_etapa2/auditoria_etapa2.json",
+      "bytes": 5767,
+      "sha256": "1da71d837b0114a505ea77c468564577829fcc33cebdb32ed26f18df51fe8fd1",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/auditoria_ibovespa.csv",
+      "bytes": 116893,
+      "sha256": "7e0d2646226bf0e277ca405a0bb090de521f870b2fbf5ec5808aa895a403b0a8",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/auditoria_scores_corrigidos.json",
+      "bytes": 511,
+      "sha256": "159ac0d0408d36bdaed1a5c1dfa0e5ed546c3ab9b0dde1fb1c89ef170e05f2f3",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/capacidade_ordens_multifatorial.csv",
+      "bytes": 435466,
+      "sha256": "aa8272935e6d00ca82c6c495b6c65a551eb13de3eebda5eccf8c9241fe301e00",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/capacidade_resumo.json",
+      "bytes": 649,
+      "sha256": "9f4a6813e9b8e4051750918a4c407fe633d34a09d96bb58d7d9b7aad6f5ec6be",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios_operacionais.csv",
+      "bytes": 1867,
+      "sha256": "323f604cf1f55cb70b4e77ed660ccb5494a52d9007c8f8c1af80e984633ce8a0",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios_taxas.csv",
+      "bytes": 1216,
+      "sha256": "950dcd673aab9b982a7c4db2a4c28e46330f16c121c4549911c3a580cd552dd9",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/cobertura_codigos_ausentes.csv",
+      "bytes": 440,
+      "sha256": "5b1569bcdf2b56b24d73556dac85966664cff85d81e1a12021fb7068dd3219ea",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/comparacao_estrategias.csv",
+      "bytes": 3131,
+      "sha256": "a5365fa1e8a87cc1201eef4123a201d3587f754c82fadfcb3a0ddbcf953cc1d0",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/correcoes_corporativas_etapa2.csv",
+      "bytes": 208833,
+      "sha256": "079d1ca86d6f11074e97d720d97585ad011f4e985451e67379fd1cb0a8548264",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/dashboard_validacao_etapa2.html",
+      "bytes": 1768656,
+      "sha256": "14af3c05b3a55a4aeb3daf6c5eada32b6971d508d0d370ec3b2d63f360cd4e9a",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/diagnostico_temporal_retrospectivo.csv",
+      "bytes": 6052,
+      "sha256": "22088c2ad3aca0ea18df4e0f7c26fcb26074cd103dee57433d1ceb68a63b6de4",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/direito_mglu1_b3.csv",
+      "bytes": 63,
+      "sha256": "e2e97e7c1b3a69dade61f44d964f739517ba5d408e0eba1cbe528575a618e362",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/exposicao_setorial_por_ano.csv",
+      "bytes": 30070,
+      "sha256": "6b46a3cfad8a14cc50673e72ae9255b60a5c3e2ffbdf96cbf861720479a2d51c",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/exposicao_setorial_por_regime.csv",
+      "bytes": 14545,
+      "sha256": "48fe5cfeb58a2fa2cd5bc430beb6c8c08d3d49a5dd634c9900ba5a0877454d3c",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes_indices.json",
+      "bytes": 5691,
+      "sha256": "4178b73766513b48e0be9b115034f62e5ae44544e82fcf8603e4935973f7394d",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/historico_codigos_ausentes_b3.csv",
+      "bytes": 610922,
+      "sha256": "37c2be6ebcd1b8350c44d6428f5c686302554508686764452229f49394c9a808",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/incerteza_bootstrap_pareado.csv",
+      "bytes": 720,
+      "sha256": "06ae34693fefb998071ab673e58ffdc522533283b16fc79cf77c4bf9d14dcbb3",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/indice_ibovespa_b3.csv",
+      "bytes": 47633,
+      "sha256": "112ccb421b5b173e3a68f951e2052f30750ab1230a15d8bb3c95dfbef68fbc6b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/indice_ibxx_b3.csv",
+      "bytes": 45932,
+      "sha256": "1b48b2a14f2a41f0a8cd38d477a3afeb764ce40cbee6e151531579389fa367e2",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/manifesto_calculo.json",
+      "bytes": 1085,
+      "sha256": "40b8f55213d02f6c8d22b26780ea01f6964bb49e6ac1437ed5e8c3086dee8b8c",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/manifesto_entrega_etapa2.json",
+      "bytes": 26075,
+      "sha256": "f3f484d14a3fea5ea4a1ee3e7a14562228058bfb058f77f601894ab8afd64cea",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/metricas_por_ano.csv",
+      "bytes": 15451,
+      "sha256": "394a1b1946d9641f4b829f561c98d7a7eae35f84a3c546e21c1fb19c3a356507",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/metricas_por_regime.csv",
+      "bytes": 8202,
+      "sha256": "e411372dc07cbd87dcc011b09d1ed8528a9955b69d11c0b4ad48ed2b68f38af3",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/patrimonios_comparados.csv",
+      "bytes": 275813,
+      "sha256": "11d9eb40317df6839c3138369aff9c5913a763a442026851da914545ab92ee6b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/precos_etapa2.csv",
+      "bytes": 7632395,
+      "sha256": "eee343f8b824bb4864e1ad6111370a5a36fe771e6e3354731eb20717caa46002",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/protocolo_registrado.json",
+      "bytes": 5268,
+      "sha256": "c11a28431717a1e27a27ad20944a718f69f1c6a832a776ebf368e33a70880faf",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/reconciliacao_eventos.csv",
+      "bytes": 1407,
+      "sha256": "e725764df4bf24d1e103889f6067c39466cb3128b2763580af45237048318c44",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/regimes_predefinidos.csv",
+      "bytes": 66348,
+      "sha256": "badf99af0a52ab5df79b2f996fba9bdbd7d28c2d03354c5704988373d040b62a",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/RELATORIO_TECNICO.html",
+      "bytes": 1537419,
+      "sha256": "3a02b1490c898ea09f195f9f5ceea257207db61cca3ecbc1916f310f1042ed44",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/RELATORIO_TECNICO.md",
+      "bytes": 29295,
+      "sha256": "26ac70778bdeef720426de6e153231e133ee66345000b9e6b56b731450d2ffc9",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/scores_mensais_auditados.csv",
+      "bytes": 643309,
+      "sha256": "f96b0954285040447cd3314db8f50e2774ac2b3762e602cb03e2e35105fdf3fd",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/scores_mensais_originais.csv",
+      "bytes": 643310,
+      "sha256": "2738f2de8a1d6bf220762fde957d41e26122a5fa57cde03e7d73e1c36fc62440",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/sensibilidade_sem_otimizacao.csv",
+      "bytes": 7324,
+      "sha256": "3dbdc7b33d508a8c706ccc225418954c038c5648d409f69229b1726dcca76e50",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/taxas_admin_0.01_performance_0.1.csv",
+      "bytes": 229453,
+      "sha256": "288faa4011ce90fbcc0bb873dfc0216ddfab6c9446c1ed3aee68de820c6c6421",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/taxas_admin_0.02_performance_0.2.csv",
+      "bytes": 229075,
+      "sha256": "7fadc4c1bad5074630d5363aea3292c307ab60567a9781f64319e3a09957d659",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/taxas_admin_0_performance_0.csv",
+      "bytes": 196315,
+      "sha256": "84a511f88f2ff68552b7f764adc4d58cabfca8d393aabd2b493b2e288748c196",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/validacao_independente.json",
+      "bytes": 1514,
+      "sha256": "0afe74345f84551af64e8e13b45264e351f9acad0b8da96416705c83a695da7e",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/validacao_resultados.json",
+      "bytes": 879673,
+      "sha256": "e0ceb53fc55d86137511ab320fdb129fc1a943f676e1069921996e39df6a8a67",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/verificacao_dashboard.json",
+      "bytes": 747,
+      "sha256": "21ef39242001747d90b4e1cc390d71512cfb46aa1e3a6d849144fe07a345dcf2",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/figuras/bruto_liquido_taxas.png",
+      "bytes": 288649,
+      "sha256": "b2b4b9cb065d91db477695eb37a5e4c8728f535da3e06d4f2958014409a98191",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/figuras/capacidade_ordens.png",
+      "bytes": 153172,
+      "sha256": "515faf249a09238840036810223c8e0b3d9409c046271989f73ad08fe59eb300",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/figuras/comparacao_patrimonio_drawdown.png",
+      "bytes": 567234,
+      "sha256": "e20cb91ca816ae3c5e94f7e0b51cf34b6ad2893aa4996ba73a15b428329f828c",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/figuras/retornos_anuais.png",
+      "bytes": 117064,
+      "sha256": "8c25b51b1b701cca4d516da50e9097c03f530515d1b419a11a5ad1edd429dbf5",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/manifesto_documentos_cvm.json",
+      "bytes": 7454,
+      "sha256": "279f97eb349f9cb10bab24c8cbf35c244ccd7664247e62fde8e76a9b49b88425",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/fora_da_amostra/carteira_herdada_referencia.csv",
+      "bytes": 3074,
+      "sha256": "2c404c9188e4fc61bb63328bf3fa5bdd0317acfc2b79def1df707dd6cf865a2d",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/fora_da_amostra/observacoes_prospectivas_vazias.csv",
+      "bytes": 52,
+      "sha256": "196f377ba03ee285043f2db75b1921815a6a13b34c22fea8ae30953cedfddc6c",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/fora_da_amostra/plano_e_checkpoint.json",
+      "bytes": 1594,
+      "sha256": "567154e462d230994d00a8ab01df0e7f148383524c264bd11ded1b7f0f4ae121",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/fora_da_amostra/registro_decisoes_vazio.csv",
+      "bytes": 133,
+      "sha256": "81052dd006199ad8b169140732b6cb9e314f4e5b1a37ef0318f0b9132461cc7a",
+      "destination": "repositório e pacote de pesquisa"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBOVESPA_2018.json",
+      "bytes": 9487,
+      "sha256": "157a6d55d632e29b6086393d659a14b27668ca0ef10f5a5ad50753dd961fb384",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBOVESPA_2019.json",
+      "bytes": 9641,
+      "sha256": "5fe2d90a9b62a001b5f6f8b6c5cda981ef38f13a618be05ced291e656d9790fd",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBOVESPA_2020.json",
+      "bytes": 9657,
+      "sha256": "a26b306ab53cdf35ee1993dd73f090f02b9c97044391f6a43d48a9adc67cdc07",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBOVESPA_2021.json",
+      "bytes": 9772,
+      "sha256": "4e5fec3ce7061fbb64f7042e7b78ebd13839e610540c56515556ca288015eddd",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBOVESPA_2022.json",
+      "bytes": 9771,
+      "sha256": "1df55bd464f974caf39149986bfe83693a6969295bcdb1eca48ced86c7f35897",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBOVESPA_2023.json",
+      "bytes": 9776,
+      "sha256": "a9a88efd866f0327413593aef4fdbe7541f560301e2701079cbeb06383c66810",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBOVESPA_2024.json",
+      "bytes": 9804,
+      "sha256": "9d0de175cbfc6ea900671e5730a1278f769366cc5eea63c4ac89baccfa422d20",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBOVESPA_2025.json",
+      "bytes": 9796,
+      "sha256": "9e2783ecd22e78c4f347097c78243ce7270ed1924f33bcfcc3c3377dccb3b79f",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBOVESPA_2026.json",
+      "bytes": 9456,
+      "sha256": "7b732ec163deeeab014e0f9c809e307b00be3de6043e8e31390ef602a2af7c23",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBXX_2018.json",
+      "bytes": 9487,
+      "sha256": "9f9a1c4f0e3abc96b846e34b25b70446bac3754b2307d99530efc71ed88809e4",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBXX_2019.json",
+      "bytes": 9508,
+      "sha256": "d66bdf110f1dca2ee6791ab219fdc78d3671552c85fabc923e1d7aaefa51839b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBXX_2020.json",
+      "bytes": 9515,
+      "sha256": "37b5cbe1a2dbb621d3ac01c8c29ab7a13ac772dccef0e849f1a836be27bca3c3",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBXX_2021.json",
+      "bytes": 9501,
+      "sha256": "35b115541dee2d2f9e2388facf952e1438f2775488b6053ba43a4777d64f9bfb",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBXX_2022.json",
+      "bytes": 9522,
+      "sha256": "eaae171427f07ac19bbea5583eab857821d0655c6bcdb4dcc192d92f98b304f3",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBXX_2023.json",
+      "bytes": 9508,
+      "sha256": "68b1bac443842ef66cc83e4fea4b19e0c6a50babd6a02ab0d589f96280b5ef3c",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBXX_2024.json",
+      "bytes": 9529,
+      "sha256": "9a6d416f0cb22cc816787d52cfc5fe5d7732037d5b6434c2a9cd97cc78fda78c",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBXX_2025.json",
+      "bytes": 9522,
+      "sha256": "eeafdfa75a9ff242d3861506879b6d48119acd6c347610580a2015481dced69a",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/fontes/indices_b3/IBXX_2026.json",
+      "bytes": 9224,
+      "sha256": "a978aa23d287cb7c5772e8773b0e829d96ba4690598b399c82cbb7f579b0003e",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/eligible_equal/carteiras_mensais.csv",
+      "bytes": 682139,
+      "sha256": "baf326d3f41ac1d1e2825d22edce3fd96b342f3373c00e219c1eaa91c08ac2d1",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/eligible_equal/metricas.json",
+      "bytes": 923,
+      "sha256": "1fb3feb4d7006473ac5dd193c47e0c6921c619ec6d23e1a05d85ddc3120f2689",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/eligible_equal/ordens.csv",
+      "bytes": 287040,
+      "sha256": "4a337c5c624025df29dfe2b327d2a94e818d8486e4c7ef074dc190d1580d05cc",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/eligible_equal/patrimonio_diario.csv",
+      "bytes": 788672,
+      "sha256": "519938f0c135ed82ac531a3909dfa1c126b5733cd58b05f52fc46a0779b2a5ea",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/low_volatility/carteiras_mensais.csv",
+      "bytes": 279025,
+      "sha256": "cc7b24217f33f07a29891ecf3032f78f7d884288d1e211f9027158d2dcf00eb0",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/low_volatility/metricas.json",
+      "bytes": 889,
+      "sha256": "4dc306621c58e43d2885dd50d0c6ce81e0d68b8fa73b889fba234d789f498521",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/low_volatility/ordens.csv",
+      "bytes": 141465,
+      "sha256": "3fbf9d12e1e144ad2f1237975f75179214fb9b059ea876a2760e7b7be1adfbe1",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/low_volatility/patrimonio_diario.csv",
+      "bytes": 675888,
+      "sha256": "aba8699a506aa3bfd5d846d86f7de79f7af8c5c7b92485d27fda2e46fa832033",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/momentum/carteiras_mensais.csv",
+      "bytes": 278484,
+      "sha256": "c971e2274fbcf21735ce6eeec65a25ed9eb42ce65c481fdb1675459bbcd33211",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/momentum/metricas.json",
+      "bytes": 868,
+      "sha256": "b8d32c7d474d97f71ec1436ed907bf23e598232698609c8ce5ce4090ad57d1a7",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/momentum/ordens.csv",
+      "bytes": 143262,
+      "sha256": "cc67312531edc2c05c061e0cdf3ac9e000f4d1b3acf9e081375f6d5e72541539",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/momentum/patrimonio_diario.csv",
+      "bytes": 703408,
+      "sha256": "b9c41890218b558cfb74980a407db02a310c2000572a061785d9304609f8a9df",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/multifactor/carteiras_mensais.csv",
+      "bytes": 279398,
+      "sha256": "1db0e25c6210492d1e9e7442b72e852deb5eb39c4f188a3ad0746998542cbafb",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/multifactor/metricas.json",
+      "bytes": 879,
+      "sha256": "839a65cd558dd355503d451ac1d6dd70a78ee47f95586f08d90529bad1907dc7",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/multifactor/ordens.csv",
+      "bytes": 143704,
+      "sha256": "6cbab4bf2cb9d2d7ff79ea4299b6e27a48dda21ed6153421d4d8a00c4d1a8fff",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/multifactor/patrimonio_diario.csv",
+      "bytes": 699196,
+      "sha256": "05dd47fa70668079653f159d531c655f6fc99fb9592886e4f889cb0174ee3286",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/multifactor_gross/carteiras_mensais.csv",
+      "bytes": 279558,
+      "sha256": "3b0a0c017ab76218d66df299c1706993f11ff8d676f7feaa328ad01a72b0e26b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/multifactor_gross/metricas.json",
+      "bytes": 873,
+      "sha256": "1bbd76955cbf45f0e1f85c1df4d76cec6b539186b80b08e7d666cbd9fe67c6bd",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/multifactor_gross/ordens.csv",
+      "bytes": 135925,
+      "sha256": "7647fd104e2922577fcd9293c81aa812bae34f7bea1594d853fb2bedbc908885",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/multifactor_gross/patrimonio_diario.csv",
+      "bytes": 697338,
+      "sha256": "8905677855fb4dab7d657340800626a30e91c1f4abe2e898441a7afcac97a482",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/operational_100m_eta05/carteiras_mensais.csv",
+      "bytes": 279418,
+      "sha256": "28a86d6eb896b6cb8bad7fb368a71f47d0c901f94b5c564c88165bed35dd9c90",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/operational_100m_eta05/metricas.json",
+      "bytes": 894,
+      "sha256": "6735cff5d0e4ba4e8e80605d8d322e213e9ce1fae6c39273e13f043838836c4e",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/operational_100m_eta05/ordens.csv",
+      "bytes": 143531,
+      "sha256": "a7dfec87fb3efd86b7e7341f7b1750bba755cac7de3d1f290e6cefe58624f837",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/operational_100m_eta05/patrimonio_diario.csv",
+      "bytes": 699020,
+      "sha256": "8ce1af20d56d4b041accc621cfafcacc2f74dce45107cb25cbe8ce807120fd63",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/operational_100m_eta10/carteiras_mensais.csv",
+      "bytes": 279358,
+      "sha256": "c17d59227b253909edeb5ee22f98c7a6720b8ee271e0e4f78be3e556a3a404e0",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/operational_100m_eta10/metricas.json",
+      "bytes": 893,
+      "sha256": "ec750ca0a4e5b67cbd24063205433c7bc1138b613562e8fe4a789d00d2489818",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/operational_100m_eta10/ordens.csv",
+      "bytes": 143639,
+      "sha256": "c0c9c6e5a4aa1f75af23179923cc220a22cb0fb9abb043b9b71599588c3085ec",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/operational_100m_eta10/patrimonio_diario.csv",
+      "bytes": 698651,
+      "sha256": "a07c85564dd3496b9811d1e5a63455c9cd61cf4fd7b2ae52c3e546f174e56b4a",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/operational_500m_eta05/carteiras_mensais.csv",
+      "bytes": 279478,
+      "sha256": "c6ef8c1699aa65a13a77b80e63cb8f6cfe3b67ad400d2043c50a027f8d9f87b0",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/operational_500m_eta05/metricas.json",
+      "bytes": 894,
+      "sha256": "4765e8e36730d4f568f8d46f9324f8926e6b8b12225a00bcb6b7a8abc95c906b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/operational_500m_eta05/ordens.csv",
+      "bytes": 146850,
+      "sha256": "69a74ed35cab734c08e44ef46cf00c626ba9aed6b85754d29f803a9c60f51ce6",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/operational_500m_eta05/patrimonio_diario.csv",
+      "bytes": 695819,
+      "sha256": "abedc911e7699db8729ae1d331da2a75ea0bb8e853235166efdb73385cd65c4a",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_execution_cost_bps_10/carteiras_mensais.csv",
+      "bytes": 279498,
+      "sha256": "e53cb003d2e7d09c139cd47714b44b536a23c2a2dbb09487d5842de4c46fb833",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_execution_cost_bps_10/metricas.json",
+      "bytes": 899,
+      "sha256": "3d16c31162784dba0f3d3fd107d6b5119c042bd169b241f8465d95ea6f3f0e0c",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_execution_cost_bps_10/ordens.csv",
+      "bytes": 142953,
+      "sha256": "12dbbb5dbdd2bed19ff81a0906820ed84f81b94bbb07e58af982861549892728",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_execution_cost_bps_10/patrimonio_diario.csv",
+      "bytes": 363375,
+      "sha256": "36cccae76612f2fb965d754113ae0c75acfea93f551221fe6782207cf0dbaf74",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_execution_cost_bps_40/carteiras_mensais.csv",
+      "bytes": 279238,
+      "sha256": "35082fd569cf0c23a49261aaba44c056e7808a5ad5702b6d3aa0ae3b27348640",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_execution_cost_bps_40/metricas.json",
+      "bytes": 901,
+      "sha256": "da9ca2bf8d3f84a0456eabb3182265748ac9cea1c1de4cad61b54df7e550af40",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_execution_cost_bps_40/ordens.csv",
+      "bytes": 144271,
+      "sha256": "cbde33ad51f988ac84a9c173a5e7a6a43d7310b2c3e2536d396e5bd0a6ddab7c",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_execution_cost_bps_40/patrimonio_diario.csv",
+      "bytes": 363331,
+      "sha256": "142ad66a5531c9823fdc151060b28a3c28fc48e6f36b6dd90b4875886bac7c29",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_min_adv_brl_20000000/carteiras_mensais.csv",
+      "bytes": 279808,
+      "sha256": "f96dfa489eb1b33381b669503edb7463855665d8461e0a541e85e6a076166ddf",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_min_adv_brl_20000000/metricas.json",
+      "bytes": 901,
+      "sha256": "0710caeda829248a7bd669aed41f1cc7ac57dd465aae5bfb7c458616db9574ca",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_min_adv_brl_20000000/ordens.csv",
+      "bytes": 143898,
+      "sha256": "d5f73b4d946cc50e9d5c4392f221f9ef1f0f5d935090089ab3099a93ead6e9c4",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_min_adv_brl_20000000/patrimonio_diario.csv",
+      "bytes": 363288,
+      "sha256": "dd23ec6eb89b73aca8b24ff91a06d95c8fa5facd8bc402b9b75342d85b1bffb4",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_min_adv_brl_50000000/carteiras_mensais.csv",
+      "bytes": 279486,
+      "sha256": "33771cd3af4b4e4da0309908991db9b7ba56cd71d176516e0593d4830b4ebc53",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_min_adv_brl_50000000/metricas.json",
+      "bytes": 901,
+      "sha256": "71015903e4fa9fffe8b55adf5cbde131a822f12d025b82c0a14bcdc6213a0e61",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_min_adv_brl_50000000/ordens.csv",
+      "bytes": 145702,
+      "sha256": "30de51d346d78be87252d0f14edc4e4839443c6a771fdce4787b1a0a8dccc2f6",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_min_adv_brl_50000000/patrimonio_diario.csv",
+      "bytes": 363162,
+      "sha256": "21a56887213ee89cf0d9660a6130f08360a60cef6bf01a18403e358392ff51ab",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_long_189/carteiras_mensais.csv",
+      "bytes": 280043,
+      "sha256": "3b7ab785ecd8233ee4c67fcdc2716bae281d52a53284c1a9ddf44e7a205d1989",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_long_189/metricas.json",
+      "bytes": 892,
+      "sha256": "c87a9d325a6fcbe5f7fca1823c5f11fad570a569907c6b0b0e842cb72b6fd2e2",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_long_189/ordens.csv",
+      "bytes": 148349,
+      "sha256": "363b63e871222e997eb46b65ea4e2ddbef950310217d09ceb0284a49954c3f2b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_long_189/patrimonio_diario.csv",
+      "bytes": 363282,
+      "sha256": "b9ad3b88b511600bf702c8eb65aada06fdd8c92702405c25b4c3217586bf66e3",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_skip_10/carteiras_mensais.csv",
+      "bytes": 279613,
+      "sha256": "da4478f9a36a04478e3b1f0a241ce02ccf9bcd4841d49b886fced9107046051b",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_skip_10/metricas.json",
+      "bytes": 894,
+      "sha256": "a7f28b2914767c67f02f67211381454793a326ed90416a9c3ec24dd8e25ea4ff",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_skip_10/ordens.csv",
+      "bytes": 144408,
+      "sha256": "dcd6d7cfcdaadfba7fd8bb42787ce653909e1c89abde19dbb7d6a31d1a3f9ca0",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_skip_10/patrimonio_diario.csv",
+      "bytes": 363322,
+      "sha256": "43d466d4a85f5e4d3581908ed6b416b654f1135a1e1d8f56786d2db8fd946bea",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_skip_42/carteiras_mensais.csv",
+      "bytes": 279897,
+      "sha256": "2413b6e82f6ea1b4ca43d785a59621ea121801c56c8d1656b78595521b90cfff",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_skip_42/metricas.json",
+      "bytes": 891,
+      "sha256": "594bd8949859f93c4a828fb583784558e980c3729dd0ab83f1c6e81991780fb7",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_skip_42/ordens.csv",
+      "bytes": 144555,
+      "sha256": "98d0550c3cb7b1a8a6b710e148f8f6f9d1fd6cafc8ebb0827b0088e5c1d9bbba",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_skip_42/patrimonio_diario.csv",
+      "bytes": 363276,
+      "sha256": "7d537c893a482a1ba4c3f6465714c311949cac58c6246adb4593a59c9a3e9014",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_weight_0p5/carteiras_mensais.csv",
+      "bytes": 279698,
+      "sha256": "174bdaa5da008cffb9a3a828bb0a6ed0765d52e1199d45063ad147ffcd45af56",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_weight_0p5/metricas.json",
+      "bytes": 895,
+      "sha256": "57f207198faba7fbec22bdeda4963d8e58ffbe160d2ffbb43d6a5062b4a1e03d",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_weight_0p5/ordens.csv",
+      "bytes": 146561,
+      "sha256": "0b8a4969030497d1542ffe64cd39bf75bcf8d45edb688311a10264cbe83d81ac",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_momentum_weight_0p5/patrimonio_diario.csv",
+      "bytes": 363343,
+      "sha256": "86ef2458fd157540ab7fb10b42011411fe59644f97221e9715cf6f8c789a550d",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_vol_window_126/carteiras_mensais.csv",
+      "bytes": 279725,
+      "sha256": "9db6c7523ec3cde6ddf87b8d333cc0562ce37e84f363d1e16abf1db7d40ff6c0",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_vol_window_126/metricas.json",
+      "bytes": 889,
+      "sha256": "e0317b185fc4e86d55a735a6ca9ad0ff2f3d5217444312f4ab1df25743a123cf",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_vol_window_126/ordens.csv",
+      "bytes": 142339,
+      "sha256": "324f5dda9a5e4d0c74eec3c8d4bc132bf50431e8dc3bd66c1e3d0b4d4b261941",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_vol_window_126/patrimonio_diario.csv",
+      "bytes": 363367,
+      "sha256": "cd81935c58ef169e0be812638725785b84f8cc4d5d324690b57db2a83daa8c54",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_vol_window_42/carteiras_mensais.csv",
+      "bytes": 279483,
+      "sha256": "9089e2b8f58ca2c4a7b431515a75116978ee11ab25cea27a1cc6cfc238553d56",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_vol_window_42/metricas.json",
+      "bytes": 888,
+      "sha256": "7709a0a9c5222e6116d0dfe985aa5614495b307fa193b9f8aae3cc9c73cf7b36",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_vol_window_42/ordens.csv",
+      "bytes": 144788,
+      "sha256": "8c429ffacf906c246cc37ddf67f6276f644a2b8de52695e7113c507203e2e7e7",
+      "destination": "pacote de pesquisa da Release"
+    },
+    {
+      "path": "output/validacao_etapa2/cenarios/sens_vol_window_42/patrimonio_diario.csv",
+      "bytes": 363299,
+      "sha256": "93f3235cc4432aefc972a097dd1dd8e01e6697f6a9fae6879ef9a0b49bcafd09",
+      "destination": "pacote de pesquisa da Release"
+    }
+  ]
+}

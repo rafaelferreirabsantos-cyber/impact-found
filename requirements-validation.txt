@@ -1,0 +1,4 @@
+-r requirements.txt
+pypdf>=6,<7
+matplotlib>=3.9,<4
+markdown-it-py>=3,<5

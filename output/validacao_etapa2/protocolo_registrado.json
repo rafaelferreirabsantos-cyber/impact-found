@@ -1,0 +1,134 @@
+{
+  "registered_utc": "2026-11-05T13:22:59.374924+00:00",
+  "protocol_sha256": "16663050dae5a4dbd1bcf31a5460aea988333ec3627f1c2d80f29caa5a65626b",
+  "protocol": {
+    "version": "impact-validation/2.0",
+    "registered_date_local": "2026-11-05",
+    "data_end_exclusive": "2026-11-05",
+    "nav_start": "2019-01-31",
+    "initial_nav_brl": 100000000,
+    "universe": "Mesmos 47 códigos efetivamente disponíveis na etapa 1; viés de sobrevivência não eliminado. Quatro códigos antigos investigados separadamente, sem inserção de preço não ajustado como retorno total.",
+    "baseline": {
+      "momentum_weight": 0.75,
+      "momentum_long": 252,
+      "momentum_skip": 21,
+      "vol_window": 63,
+      "n_assets": 20,
+      "sector_cap": 0.3,
+      "issuer_cap": 0.05,
+      "min_adv_brl": 33333334,
+      "execution_cost_bps": 20
+    },
+    "comparators": [
+      "multifactor",
+      "momentum",
+      "low_volatility",
+      "eligible_equal",
+      "IBOVESPA_B3",
+      "IBXX_B3",
+      "CDI_SGS12"
+    ],
+    "eligible_equal_definition": "Todos os ativos elegíveis na data, 1/N, mensal, mesmo filtro e janela; referência de diversificação sem limite de 20 nem teto setorial/emissor. Reportar violações e não tratá-la como carteira aderente ao mandato.",
+    "sensitivity_one_factor_at_a_time": {
+      "momentum_weight": [
+        0.5,
+        0.75,
+        1.0
+      ],
+      "momentum_long": [
+        189,
+        252
+      ],
+      "momentum_skip": [
+        10,
+        21,
+        42
+      ],
+      "vol_window": [
+        42,
+        63,
+        126
+      ],
+      "min_adv_brl": [
+        20000000,
+        33333334,
+        50000000
+      ],
+      "execution_cost_bps": [
+        10,
+        20,
+        40
+      ]
+    },
+    "sensitivity_rule": "Sem seleção de vencedor, sem grade combinatória e sem mudar o mandato. Mesmo período de PL, formação com dados anteriores ao sinal.",
+    "regimes": {
+      "trend": "Sinal do retorno do Ibovespa em 126 sessões, observado até t-1",
+      "risk": "Volatilidade do Ibovespa em 63 sessões até t-1, limiar fixo de 25% a.a.",
+      "drawdown": "Em cada regime, reportar pior queda dentro de trechos contíguos, sem concatenar intervalos separados."
+    },
+    "operational": {
+      "initial_nav_scenarios_brl": [
+        100000000,
+        500000000
+      ],
+      "one_day_participation_caps": [
+        0.05,
+        0.1,
+        0.2
+      ],
+      "fee_bps": 5,
+      "half_spread_bps": 5,
+      "impact_eta_scenarios": [
+        0.5,
+        1.0
+      ],
+      "impact_formula": "eta * sigma_daily_63(signal) * sqrt(abs(order)/ADV21(signal)), custo percentual; proxy de pesquisa, sem calibração por book.",
+      "capacity_policy": "Reportar ordens acima do limite e capacidade; não declarar preenchimento assegurado. Diagnóstico do volume do dia da execução é ex-post e não altera seleção."
+    },
+    "fees": {
+      "annual_management_performance_pairs": [
+        [
+          0,
+          0
+        ],
+        [
+          0.01,
+          0.1
+        ],
+        [
+          0.02,
+          0.2
+        ]
+      ],
+      "management": "Pro rata por dias corridos/365 sobre PL; dedução diária.",
+      "performance": "Provisão diária somente sobre excedente à marca d'água líquida corrigida pelo CDI; cristalização no último pregão de junho/dezembro. Reversão de provisão antes da cristalização; sem reset abaixo da marca; sem antecipar fechamento futuro."
+    },
+    "uncertainty": {
+      "paired_monthly_bootstrap": "Moving blocks de 6 meses, 2000 réplicas, semente 20261105; intervalos percentis de 95% de diferença da média mensal anualizada, sem inferência causal nem correção automática de todos os testes."
+    },
+    "retrospective_diagnostics": {
+      "development": [
+        "2019-01-31",
+        "2022-12-31"
+      ],
+      "validation": [
+        "2023-01-01",
+        "2024-12-31"
+      ],
+      "already_seen_holdout": [
+        "2025-01-01",
+        "2026-11-04"
+      ],
+      "warning": "Todos esses períodos já estavam acessíveis. Segmentação temporal retrospectiva NÃO constitui teste verdadeiramente fora da amostra."
+    },
+    "prospective_oos": {
+      "registration_date": "2026-11-05",
+      "first_new_return_date": "2026-11-06",
+      "end_target": "2027-11-05",
+      "first_scheduled_formation": "Último pregão B3 de novembro/2026, execução na sessão seguinte",
+      "rules": "Mandato 75/25 congelado. Carteira de partida é a formada em outubro/2026. Arquivar sinais e hashes antes das execuções; nenhuma alteração baseada em resultados até o fim. Falta de dado de posição interrompe cálculo; mudanças de ticker precisam documentação e política de conversão previamente registrada.",
+      "status": "PREPARADO; NÃO EXECUTADO, sem dados futuros"
+    },
+    "decision_rule": "Não afirmar alpha ou viabilidade de lançamento enquanto houver viés de sobrevivência, cobertura corporativa incompleta e ausência de observação prospectiva. Mudanças de dados/metodologia são versões de auditoria, não parâmetros escolhidos para aumentar retorno."
+  }
+}

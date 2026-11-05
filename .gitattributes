@@ -1,0 +1,8 @@
+# Preservar bytes da pesquisa: os manifestos usam hashes dos arquivos originais.
+# -text desliga conversão de fim de linha; não impede diffs de arquivos de texto.
+* -text
+*.py diff=python
+*.png binary
+*.jpg binary
+*.zip binary
+*.ZIP binary

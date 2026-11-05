@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Ao referenciar esta pesquisa, cite a versão e as limitações da amostra utilizada."
+title: "ImpactUFSCar Found: plataforma de pesquisa e validação quantitativa"
+authors:
+  - name: ImpactUFSCar
+type: software
+repository-code: "https://github.com/rafaelferreirabsantos-cyber/impact-found"
+url: "https://github.com/rafaelferreirabsantos-cyber/impact-found"
+version: "pesquisa-2026-11-05"
+date-released: 2026-11-05
+abstract: "Pesquisa exploratória de Momentum e baixa volatilidade em ações brasileiras, com auditoria, custos, risco e dashboard. Validação condicional; não é desempenho de fundo real."
